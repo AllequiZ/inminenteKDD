@@ -1,0 +1,4358 @@
+﻿00:00:00.000 --> 00:00:01.620
+Hola y bienvenido a un nuevo episodio de Inminente
+
+
+00:00:01.620 --> 00:00:04.419
+Podcast. En esta semana tenemos una invitada
+
+
+00:00:04.419 --> 00:00:07.860
+muy especial. Porque normalmente cuando uno está
+
+
+00:00:07.860 --> 00:00:11.960
+joven y piensa en cómo se va a desarrollar su
+
+
+00:00:11.960 --> 00:00:14.900
+vida profesional, su vida personal, piensa de
+
+
+00:00:14.900 --> 00:00:17.879
+primerazo en la universidad. Pero esta persona,
+
+
+00:00:17.980 --> 00:00:20.760
+esta invitada, ¿qué mueve ese libreto? Dijo,
+
+
+00:00:20.859 --> 00:00:24.210
+venga. Para mí la universidad no es la mejor
+
+
+00:00:24.210 --> 00:00:26.589
+opción. Yo voy a coger por otro camino, que es
+
+
+00:00:26.589 --> 00:00:29.250
+el de entrar en contacto con el mundo real desde
+
+
+00:00:29.250 --> 00:00:32.469
+una etapa muy, muy temprana. Y eso le dio unos
+
+
+00:00:32.469 --> 00:00:34.450
+resultados, le ha dado unos resultados hasta
+
+
+00:00:34.450 --> 00:00:37.149
+el día de hoy increíbles. Y bueno, a lo largo
+
+
+00:00:37.149 --> 00:00:39.109
+del episodio ya va a desarrollar un concepto
+
+
+00:00:39.109 --> 00:00:42.429
+que a mí me parece brutal, que es pasar de querer
+
+
+00:00:42.429 --> 00:00:46.649
+quedar bien en la vida con otros, etc. A uno
+
+
+00:00:46.649 --> 00:00:50.960
+realmente útil, que lo lleva a uno a... hacer
+
+
+00:00:50.960 --> 00:00:54.799
+cosas muy, muy chéveres. Así que los dejo con
+
+
+00:00:54.799 --> 00:00:57.399
+el episodio de la semana junto a Aleja Henao.
+
+
+00:00:57.960 --> 00:01:01.140
+Quiero empezar con una pregunta y es ¿Quién es
+
+
+00:01:01.140 --> 00:01:06.980
+Aleja Henao? Bueno, ¿Quién es? Yo me defino como
+
+
+00:01:06.980 --> 00:01:09.620
+alguien muy curiosa, eso no es el título primero,
+
+
+00:01:09.780 --> 00:01:12.359
+no me gusta, porque además ahorita no tengo un
+
+
+00:01:12.359 --> 00:01:15.319
+título directo que te diga, mira, soy la de no
+
+
+00:01:15.319 --> 00:01:17.319
+sé quién, de no sé dónde, o la que estudió no
+
+
+00:01:17.319 --> 00:01:19.950
+sé quién, no sé, no. Entonces es una persona
+
+
+00:01:19.950 --> 00:01:24.609
+muy curiosa, que le gusta aprender, pero sobre
+
+
+00:01:24.609 --> 00:01:27.349
+todo enseñar, porque se dio cuenta que cuando
+
+
+00:01:27.349 --> 00:01:31.629
+enseñaba, aprendía el doble. Que está apasionada
+
+
+00:01:31.629 --> 00:01:34.689
+y tiene la misión muy dentro de su corazón, y
+
+
+00:01:34.689 --> 00:01:36.290
+que ya lo está haciendo y está dando pasitos
+
+
+00:01:36.290 --> 00:01:38.989
+para democratizar el acceso a la tecnología,
+
+
+00:01:39.109 --> 00:01:44.790
+porque ahora sí trabajó, y bueno, no, emprendedora
+
+
+00:01:44.790 --> 00:01:47.620
+desde chiquita, vendía dulces. en el colegio,
+
+
+00:01:47.640 --> 00:01:51.579
+fui parte de los scout, yo creo que de ahí viene
+
+
+00:01:51.579 --> 00:01:56.140
+todo este tema social, más grande, entré a estudiar
+
+
+00:01:56.140 --> 00:01:59.439
+tecnología, soy autodidacta, entonces por eso
+
+
+00:01:59.439 --> 00:02:01.920
+el tema de aprender, pero también de chiquita
+
+
+00:02:01.920 --> 00:02:05.260
+hacía muchas presentaciones, entonces hice las
+
+
+00:02:05.260 --> 00:02:08.419
+hacía mis muñecas, porque soy hija única, entonces
+
+
+00:02:08.419 --> 00:02:11.979
+como que conecté con eso, y dije bueno, sí, me
+
+
+00:02:11.979 --> 00:02:14.500
+gusta, entonces empecé a dar conferencias, desde
+
+
+00:02:14.500 --> 00:02:18.599
+que aprendí cómo, Usar HTML, que es un programa,
+
+
+00:02:18.900 --> 00:02:24.080
+bueno, lenguaje de programación. Les enseñé.
+
+
+00:02:24.819 --> 00:02:31.139
+Y de programación, de las páginas web. Cuando
+
+
+00:02:31.139 --> 00:02:33.439
+apenas supe que era eso, cómo ponerle un color
+
+
+00:02:33.439 --> 00:02:35.759
+a una vaina, dije, tengo que convertírselo a
+
+
+00:02:35.759 --> 00:02:38.219
+alguien. Y se los compartí a mis amigas. Luego
+
+
+00:02:38.219 --> 00:02:40.439
+entré a trabajar al mundo de la tecnología en
+
+
+00:02:40.439 --> 00:02:42.800
+startups, en empresas de base tecnológica que
+
+
+00:02:42.800 --> 00:02:46.300
+crecen muy rápido. Estuve ahí cinco años. Y hoy
+
+
+00:02:46.300 --> 00:02:50.979
+me dedico de lleno a enseñar cómo usar la tecnología
+
+
+00:02:50.979 --> 00:02:54.759
+de forma fácil y práctica a jóvenes, a organizaciones,
+
+
+00:02:54.800 --> 00:02:58.840
+a personas mayores, para que realmente resuelvan
+
+
+00:02:58.840 --> 00:03:00.759
+problemas que tengan en el día a día. No es usar
+
+
+00:03:00.759 --> 00:03:03.460
+la tecnología por usarla, sino saber qué cosas
+
+
+00:03:03.460 --> 00:03:05.939
+tiene WhatsApp, cómo uso Google Maps para mi
+
+
+00:03:05.939 --> 00:03:08.599
+emprendimiento, cómo le saco el provecho a ChatGPT,
+
+
+00:03:08.680 --> 00:03:11.439
+que ya está tan famoso en estos días. Entonces,
+
+
+00:03:11.460 --> 00:03:14.539
+a eso me dedico y creo que eso cuenta mucho de
+
+
+00:03:14.539 --> 00:03:17.400
+lo que soy. Todo lo que me acabas de decir y
+
+
+00:03:17.400 --> 00:03:21.379
+todo lo que es Aleja no vino de la noche a la
+
+
+00:03:21.379 --> 00:03:24.699
+mañana. O sea, eso tuvo un proceso bien largo
+
+
+00:03:24.699 --> 00:03:27.060
+detrás. Y esto me lleva a la siguiente pregunta.
+
+
+00:03:27.939 --> 00:03:30.259
+¿Lo que eres hoy lo soñaste de niña? ¿Cómo fue
+
+
+00:03:30.259 --> 00:03:35.159
+tu proceso desde muy, muy atrás? Bueno, entonces,
+
+
+00:03:35.280 --> 00:03:40.560
+desde chiquita... Ah, bueno, ahora la conecto
+
+
+00:03:40.560 --> 00:03:43.919
+mucho con... ser conferencista, con hablarle
+
+
+00:03:43.919 --> 00:03:46.800
+a públicos, porque es uno de los miedos más irracionales
+
+
+00:03:46.800 --> 00:03:50.000
+de los seres humanos. Y eso le pasó a Aleja Chiquita.
+
+
+00:03:50.080 --> 00:03:56.460
+Cuando dio su primer discurso en el jardín, graduándome
+
+
+00:03:56.460 --> 00:04:01.020
+de transición, me pusieron a leer y no me acuerdo,
+
+
+00:04:01.159 --> 00:04:04.060
+pero me cuentan que empecé a llorar desconsoladamente.
+
+
+00:04:04.539 --> 00:04:10.020
+Entonces me ponía... ¿Sabes cómo? Aquí al frente,
+
+
+00:04:10.180 --> 00:04:14.039
+muerta del susto, me dice mi mamá, aún llorando,
+
+
+00:04:14.099 --> 00:04:19.600
+y entonces agradezco una cosa demasiado chistosa,
+
+
+00:04:19.600 --> 00:04:22.040
+pero lo hice, llorando, con miedo, que se fueran
+
+
+00:04:22.040 --> 00:04:25.699
+a reír, que fueran a pasar vainas, lo hice, luego
+
+
+00:04:25.699 --> 00:04:31.019
+tuve que repetir la decisión, y ahí ya. La más
+
+
+00:04:31.019 --> 00:04:34.519
+tesa me lo aprendí, solo tenía la hoja de guía
+
+
+00:04:34.519 --> 00:04:40.339
+e hice el discurso de grado otra vez de transición
+
+
+00:04:40.339 --> 00:04:45.540
+por allá, pero ya como mucho más tranquila, influyó
+
+
+00:04:45.540 --> 00:04:49.800
+mucho mis profesoras, mi familia, ya me sentía
+
+
+00:04:49.800 --> 00:04:52.360
+como con más habilidades y herramientas para
+
+
+00:04:52.360 --> 00:04:56.019
+hacerlo. Luego pasó este tema de, yo me sentaba
+
+
+00:04:56.019 --> 00:04:59.589
+literal y decía PowerPoints. Me acuerdo dos mucho.
+
+
+00:04:59.750 --> 00:05:03.490
+Uno, me puse a investigar sobre lugares raros
+
+
+00:05:03.490 --> 00:05:05.949
+en el mundo. Encontré las Islas Canarias, entonces
+
+
+00:05:05.949 --> 00:05:08.550
+armé las diapositivas, fui a investigar y las
+
+
+00:05:08.550 --> 00:05:11.930
+hice. Y otro, porque siempre me fascinó el espacio,
+
+
+00:05:12.110 --> 00:05:15.629
+porque mis papás me pusieron en cuánto curso
+
+
+00:05:15.629 --> 00:05:18.910
+hubiera. Plastilina, dibujo, natación, patinaje,
+
+
+00:05:18.949 --> 00:05:21.459
+todo. Para que yo explorara a ver cuál. que es
+
+
+00:05:21.459 --> 00:05:25.160
+un privilegio, sin duda, para ver cuál pegaba,
+
+
+00:05:25.259 --> 00:05:28.180
+cuál me gustaba más. Entonces, en ese espacio
+
+
+00:05:28.180 --> 00:05:31.860
+hice una presentación. Hice la presentación porque
+
+
+00:05:31.860 --> 00:05:34.199
+literalmente senté a investigar, hice las diapositivas,
+
+
+00:05:34.199 --> 00:05:36.480
+pero se las hacía a mis papás y a mis muñecas.
+
+
+00:05:36.480 --> 00:05:38.959
+O sea, eso no era pues desde el inicio una cosa
+
+
+00:05:38.959 --> 00:05:44.379
+tan grande. Me fue gustando. Yo dije, ok, quiero
+
+
+00:05:44.379 --> 00:05:47.319
+trabajar en la NASA. Me dijeron que para eso
+
+
+00:05:47.319 --> 00:05:49.980
+había que ser geóloga. de una vaina científica,
+
+
+00:05:49.980 --> 00:05:53.040
+del geólogo, soñaba con eso. Luego me dijeron,
+
+
+00:05:53.060 --> 00:05:56.160
+no, hay que ser físico. Cuando usted es físico,
+
+
+00:05:56.160 --> 00:05:58.740
+llega la NASA. Quiero ser físico. Entonces, cuando
+
+
+00:05:58.740 --> 00:06:03.139
+llegó décimo, en el colegio, en la escuela, bueno,
+
+
+00:06:03.180 --> 00:06:05.300
+si había alguna colombiana por ahí, la ponemos
+
+
+00:06:05.300 --> 00:06:08.180
+después. En décimo, me tocó hacer las prácticas
+
+
+00:06:08.180 --> 00:06:13.180
+del colegio y eran de contabilidad, no eran de
+
+
+00:06:13.180 --> 00:06:16.870
+tecnología ni nada de eso. Pero... Mi mamá me
+
+
+00:06:16.870 --> 00:06:18.870
+había llevado a un evento donde habíamos conocido
+
+
+00:06:18.870 --> 00:06:20.990
+una física que tenía una empresa de inteligencia
+
+
+00:06:20.990 --> 00:06:24.430
+artificial. Entonces nos acordamos de ella, hicimos
+
+
+00:06:24.430 --> 00:06:29.089
+todo, toda la... romper el esquema porque a mí
+
+
+00:06:29.089 --> 00:06:32.069
+me iban a mandar pues a hacer cobranza por teléfono.
+
+
+00:06:32.189 --> 00:06:34.730
+Dije, no, queremos mandarla para allá porque
+
+
+00:06:34.730 --> 00:06:36.730
+yo quería ver cómo eran los físicos y cómo yo
+
+
+00:06:36.730 --> 00:06:39.050
+iba a llegar a la NASA. Y me di cuenta de una
+
+
+00:06:39.050 --> 00:06:41.170
+vaina completamente distinta, que eran físicos
+
+
+00:06:41.170 --> 00:06:43.670
+detrás del computador poniendo eléctricas y numeritos,
+
+
+00:06:43.730 --> 00:06:47.949
+programando. Y no los que iban a la luna. Sí.
+
+
+00:06:48.069 --> 00:06:50.069
+Y yo, ¿ustedes van a llegar a la luna ahí con
+
+
+00:06:50.069 --> 00:06:53.790
+ese computador? Y yo, oiga, no. O sea, estudiamos
+
+
+00:06:53.790 --> 00:06:55.709
+física, pero más bien nos fuimos por el lado
+
+
+00:06:55.709 --> 00:06:58.029
+de datos. Bueno, me mostraron un mundo distinto,
+
+
+00:06:58.029 --> 00:07:00.810
+el mundo de la tecnología. Aprendí mucho de ellos.
+
+
+00:07:00.949 --> 00:07:03.589
+Iba acá ocho días. Me dejaron ir acá ocho días
+
+
+00:07:03.589 --> 00:07:06.949
+como a hacer cositas, a preguntarles cosas. Muy
+
+
+00:07:06.949 --> 00:07:08.829
+interesante. Ahí estuve por primera vez en una
+
+
+00:07:08.829 --> 00:07:11.750
+startup, que para mí eso se convirtió en la realidad
+
+
+00:07:11.750 --> 00:07:15.209
+de las empresas. Vamos por partes. Antes de continuar,
+
+
+00:07:15.920 --> 00:07:18.160
+Quiero hacer una pregunta, que es la primera
+
+
+00:07:18.160 --> 00:07:21.819
+pregunta que te mandaron. Ok. Y esto lo quiero,
+
+
+00:07:21.959 --> 00:07:23.500
+o sea, esta pregunta la quiero relacionar con
+
+
+00:07:23.500 --> 00:07:27.759
+otra, pero bueno, Sebastián Martínez me preguntó,
+
+
+00:07:27.759 --> 00:07:31.180
+¿qué le dirías a esa niña que quería ser astronauta?
+
+
+00:07:31.279 --> 00:07:34.000
+Porque, antes de que me contestes, lo relaciono
+
+
+00:07:34.000 --> 00:07:36.800
+como con, o sea, no hubo como, o sea, ¿cómo lo
+
+
+00:07:36.800 --> 00:07:40.279
+tomaste? Como una decepción o como, wow, o sea,
+
+
+00:07:40.300 --> 00:07:43.399
+los físicos no van a la luna, pero... Lo que
+
+
+00:07:43.399 --> 00:07:46.540
+veo que hace esta señora es increíble, así que
+
+
+00:07:46.540 --> 00:07:49.279
+la luna puede esperar. Me quiero ir por acá a
+
+
+00:07:49.279 --> 00:07:53.980
+ver qué pasa. ¿Cómo fue? Mira que esas preguntas,
+
+
+00:07:54.319 --> 00:07:56.240
+o sea, yo siempre he querido hacer, y tengo un
+
+
+00:07:56.240 --> 00:07:58.199
+montón de vainas de la NASA, y tengo en mi cuarto
+
+
+00:07:58.199 --> 00:08:00.139
+una sección dedicada. Mira el fondo, o sea, es
+
+
+00:08:00.139 --> 00:08:03.939
+un tema que me suena mucho, pero que igual lo
+
+
+00:08:03.939 --> 00:08:07.439
+vi como muy complejo, ¿no? Yo lo veo así hoy,
+
+
+00:08:07.519 --> 00:08:09.740
+incluso después de tener el conocimiento que
+
+
+00:08:09.740 --> 00:08:13.009
+tengo en tecnología. Digo, igual es un tema como
+
+
+00:08:13.009 --> 00:08:16.730
+más científico, como de más tiempo, un tema de
+
+
+00:08:16.730 --> 00:08:22.009
+investigación, y mi mente inquieta, quizás algún
+
+
+00:08:22.009 --> 00:08:24.990
+día nos lleve a la NASA, pero volviendo a la
+
+
+00:08:24.990 --> 00:08:27.750
+pregunta, eso como contexto, pero ¿qué le diría
+
+
+00:08:27.750 --> 00:08:30.730
+a esa niña que quería ser astronauta? Bueno,
+
+
+00:08:30.790 --> 00:08:32.570
+uno que en el camino nos dimos cuenta de algo
+
+
+00:08:32.570 --> 00:08:35.629
+que también nos apasionaba mucho, más que llegar
+
+
+00:08:35.629 --> 00:08:40.009
+a la Luna, y era, uno, como yo me convertía en
+
+
+00:08:40.009 --> 00:08:43.919
+referente, en una industria en la que no prevalecían
+
+
+00:08:43.919 --> 00:08:47.740
+las mujeres, que no prevalecían las mujeres jóvenes
+
+
+00:08:47.740 --> 00:08:51.440
+líderes que saben de tecnología, porque me di
+
+
+00:08:51.440 --> 00:08:53.659
+cuenta en ese momento con los físicos, me dijeron,
+
+
+00:08:53.659 --> 00:08:56.559
+oiga, no, usted no tiene que llegar a la NASA
+
+
+00:08:56.559 --> 00:08:59.960
+para hacer cosas que salven al mundo, porque
+
+
+00:08:59.960 --> 00:09:02.360
+creo que ese es al final el sueño, ¿no? Como
+
+
+00:09:02.360 --> 00:09:05.200
+una vez leí un libro, Judy Moody salva el planeta,
+
+
+00:09:05.399 --> 00:09:08.559
+era una historia de una niña que hacía cosas
+
+
+00:09:08.559 --> 00:09:11.340
+como de reciclaje, que bueno, quizás, La forma
+
+
+00:09:11.340 --> 00:09:14.080
+era ser astronauta, ¿no? Si yo salgo del planeta
+
+
+00:09:14.080 --> 00:09:17.139
+y lo veo desde afuera, llego a la luna, puedo
+
+
+00:09:17.139 --> 00:09:19.320
+contribuir a salvar el planeta desde allá. Y
+
+
+00:09:19.320 --> 00:09:21.580
+me di cuenta en el camino, y para esa aleja que
+
+
+00:09:21.580 --> 00:09:24.240
+quería ser astronauta, lo que quería en realidad
+
+
+00:09:24.240 --> 00:09:27.299
+esa aleja chiquita era salvar el planeta. Salvar
+
+
+00:09:27.299 --> 00:09:32.220
+el planeta hoy significa dar educación de calidad,
+
+
+00:09:32.360 --> 00:09:36.960
+hoy significa convertirme también en esa persona
+
+
+00:09:36.960 --> 00:09:40.610
+referente que para más niñas... O para más jóvenes,
+
+
+00:09:40.750 --> 00:09:45.570
+díganos que acá hay otra forma de salir de los
+
+
+00:09:45.570 --> 00:09:48.129
+retos y problemas que tengamos cada uno, cada
+
+
+00:09:48.129 --> 00:09:51.789
+una, no solo en tecnología, pero con el emprendimiento.
+
+
+00:09:51.990 --> 00:09:53.970
+Entonces empiezan a salir un montón de vainas
+
+
+00:09:53.970 --> 00:09:56.190
+en el camino que siento que igual vamos para
+
+
+00:09:56.190 --> 00:09:58.809
+allá, no en ser astronautas, quién sabe, quiero
+
+
+00:09:58.809 --> 00:10:04.190
+ir a la NASA y salir, pero que hoy se transformó
+
+
+00:10:04.190 --> 00:10:06.889
+en educación y se transformó en tecnología como
+
+
+00:10:06.889 --> 00:10:10.289
+el motor que me permite. llegar allá, al menos
+
+
+00:10:10.289 --> 00:10:13.909
+en este futuro presente, cercano. Entonces, eso
+
+
+00:10:13.909 --> 00:10:15.690
+le diría, que igual sí estamos salvando el planeta
+
+
+00:10:15.690 --> 00:10:19.529
+a nuestra escala. ¡Qué loco! Y entonces, o sea,
+
+
+00:10:19.590 --> 00:10:22.129
+volviéndolo a conectar en la parte de la historia
+
+
+00:10:22.129 --> 00:10:26.049
+donde íbamos, empezaste a ir, eso, todavía estabas
+
+
+00:10:26.049 --> 00:10:28.470
+en el colegio, ¿no? Empezaste a ir cada ocho
+
+
+00:10:28.470 --> 00:10:31.210
+días y, o sea, ¿qué pasaba por tu cabeza? Porque,
+
+
+00:10:31.389 --> 00:10:36.389
+o sea, no sé, pero por lo menos en la cabeza
+
+
+00:10:36.389 --> 00:10:39.429
+del Juan Pablo más chiquito, Eso sería un sueño.
+
+
+00:10:39.450 --> 00:10:43.049
+De pronto no con startups en sí mismo, pero por
+
+
+00:10:43.049 --> 00:10:45.929
+ejemplo a mí me pasó con Naranja Media, que es
+
+
+00:10:45.929 --> 00:10:49.370
+una productora brutal de podcast. Y yo decía,
+
+
+00:10:49.529 --> 00:10:52.769
+pucha, ¿dónde me dejen entrar allá? ¡Qué locura
+
+
+00:10:52.769 --> 00:10:55.549
+ver cómo sucede la magia! O sea, realmente uno
+
+
+00:10:55.549 --> 00:10:58.690
+que es un bicho raro en este tipo de cosas se
+
+
+00:10:58.690 --> 00:11:00.549
+siente como si... O sea, es mejor que estar en
+
+
+00:11:00.549 --> 00:11:04.750
+Disney, la verdad. Y conectado para mi Disney
+
+
+00:11:04.750 --> 00:11:08.169
+y volviendo. Todo tiene que ver con mi infancia.
+
+
+00:11:08.190 --> 00:11:09.870
+Me he dado cuenta y también hablando con muchos
+
+
+00:11:09.870 --> 00:11:12.669
+adultos. Ahí hay algo. En esa infancia, en esos
+
+
+00:11:12.669 --> 00:11:15.610
+gustos, en qué te gustaba ser de niño, hay información
+
+
+00:11:15.610 --> 00:11:18.110
+muy valiosa que uno a veces dice, ay, bobadas.
+
+
+00:11:18.590 --> 00:11:21.710
+No. O sea, hay gente de 50 años que me dice,
+
+
+00:11:21.809 --> 00:11:24.289
+total, cuando yo era chiquito me gustaban los
+
+
+00:11:24.289 --> 00:11:27.090
+números y por eso yo soy financiero. ¿Ve? O sea,
+
+
+00:11:27.110 --> 00:11:29.590
+ahí empiezan a conectarse esas cosas. Entonces,
+
+
+00:11:29.629 --> 00:11:32.570
+sobre la historia. Y volviéndonos, otra cosa
+
+
+00:11:32.570 --> 00:11:36.470
+nueva de la infancia. Yo amaba ir a DiverCity,
+
+
+00:11:36.610 --> 00:11:38.870
+que era un parque que uno simulaba que trabajaba.
+
+
+00:11:39.450 --> 00:11:42.470
+Quizás porque siempre vi a mis papás muy trabajadores,
+
+
+00:11:42.549 --> 00:11:45.669
+muy comprometidos y apasionados con lo que hacían.
+
+
+00:11:46.049 --> 00:11:47.970
+Entonces creo que por ahí viene como mi gusto
+
+
+00:11:47.970 --> 00:11:56.830
+por trabajar, de alguna forma. Yo les pedía formatos
+
+
+00:11:56.830 --> 00:11:58.870
+del banco. Trabajaban en un banco. Yo les pedía
+
+
+00:11:58.870 --> 00:12:01.370
+cuánto formato hubiera para poder llenar. Entonces
+
+
+00:12:01.370 --> 00:12:04.529
+llegué ahora a esta empresa, que yo nunca sabía
+
+
+00:12:04.529 --> 00:12:06.830
+que era una startup, yo no soñaba trabajar allá,
+
+
+00:12:06.990 --> 00:12:11.610
+y poder llenar esos formatos en la vida real,
+
+
+00:12:11.789 --> 00:12:14.990
+que era porque, pues como era el centro del tema
+
+
+00:12:14.990 --> 00:12:17.549
+de contabilidad, me dijeron, no, hágalo con un
+
+
+00:12:17.549 --> 00:12:19.210
+software. Cuando en el colegio me estaban diciendo,
+
+
+00:12:19.350 --> 00:12:22.210
+no, hágalo en Kardex, en un papel, y yo, ¿en
+
+
+00:12:22.210 --> 00:12:24.769
+serio? ¿Con el computador? Sí, mire, usted ve
+
+
+00:12:24.769 --> 00:12:27.129
+aquí el número, lo pasa acá y eso pasa automático.
+
+
+00:12:27.870 --> 00:12:31.649
+¿En serio? O sea, Disney, literal, o sea, un
+
+
+00:12:31.649 --> 00:12:34.970
+mundo de posibilidades, donde además no tenían
+
+
+00:12:34.970 --> 00:12:38.230
+horario, yo no me tenía que poner uniforme, o
+
+
+00:12:38.230 --> 00:12:40.629
+sea, como que rompían todos los esquemas y yo,
+
+
+00:12:40.750 --> 00:12:42.690
+y así funciona una empresa, o sea, de verdad,
+
+
+00:12:42.730 --> 00:12:44.850
+así funciona el mundo, esto es más chévere que
+
+
+00:12:44.850 --> 00:12:48.490
+Diversity, esto está muy bueno para ser cierto.
+
+
+00:12:49.070 --> 00:12:51.669
+Entonces, creo que fue eso, como darme cuenta
+
+
+00:12:51.669 --> 00:12:55.740
+y confirmar que sí me gustaba por ese lado. Y
+
+
+00:12:55.740 --> 00:12:58.039
+también como yo empezaba a ponerle numeritos
+
+
+00:12:58.039 --> 00:13:01.139
+y letricas al computador para que hicieran cosas
+
+
+00:13:01.139 --> 00:13:03.740
+tan locas como lo que ellos estaban haciendo
+
+
+00:13:03.740 --> 00:13:06.919
+en ese momento. Y fue la primera vez que escribí
+
+
+00:13:06.919 --> 00:13:09.399
+Hola Mundo, que es un hito para todos los que
+
+
+00:13:09.399 --> 00:13:12.159
+trabajamos en tecnología, con ese primer lenguaje
+
+
+00:13:12.159 --> 00:13:14.799
+que fue Python. Yo les dije, oiga, yo quiero,
+
+
+00:13:14.860 --> 00:13:17.220
+¿cuál contabilidad? Ni que nada, ayúdenme, que
+
+
+00:13:17.220 --> 00:13:19.980
+yo quiero hacer lo que ustedes hacen. Y me pusieron
+
+
+00:13:19.980 --> 00:13:21.879
+un curso que estaba en inglés, yo no sabía nada
+
+
+00:13:21.879 --> 00:13:23.299
+de inglés, entonces tenía el traductor a este
+
+
+00:13:23.299 --> 00:13:27.950
+lado. el curso este otro ponía cinco segundos,
+
+
+00:13:28.129 --> 00:13:30.490
+escribía lo que decían, entendía y seguía. Es
+
+
+00:13:30.490 --> 00:13:33.950
+una cosa chinomática. Pero así fue como hice
+
+
+00:13:33.950 --> 00:13:36.889
+ese primero La Mundo y donde empecé a ver el
+
+
+00:13:36.889 --> 00:13:39.470
+mundo real. Y no lo puede creer, para mí todavía
+
+
+00:13:39.470 --> 00:13:41.830
+era un juego. Hoy todavía creo que es un juego.
+
+
+00:13:42.090 --> 00:13:44.809
+Entonces, pues bueno, algo así se vio esa primera
+
+
+00:13:44.809 --> 00:13:48.769
+experiencia. ¿A ti no te parece que, o sea, ahorita
+
+
+00:13:48.769 --> 00:13:51.230
+que hablamos de eso, ¿no te parece que en muchos
+
+
+00:13:51.230 --> 00:13:55.100
+casos, por no decir que en la mayoría, hay como
+
+
+00:13:55.100 --> 00:13:58.720
+una desconexión entre, o sea, en la cabeza de
+
+
+00:13:58.720 --> 00:14:01.340
+un joven de nuestra edad hay una desconexión
+
+
+00:14:01.340 --> 00:14:05.700
+entre lo que representa el mundo real y el mundo,
+
+
+00:14:05.820 --> 00:14:09.139
+o sea, y las burbujas, ¿sabes? Porque, por ejemplo,
+
+
+00:14:09.200 --> 00:14:11.779
+cuando uno está en el colegio e incluso muchas
+
+
+00:14:11.779 --> 00:14:14.179
+veces en la universidad, como que sigue en una
+
+
+00:14:14.179 --> 00:14:17.679
+burbuja donde en mi vida solo pasa la universidad
+
+
+00:14:17.679 --> 00:14:20.320
+y el resto a mí no me concierne, no me importa,
+
+
+00:14:20.360 --> 00:14:24.190
+y a mí me va a importar el mundo exterior. Cuando
+
+
+00:14:24.190 --> 00:14:26.809
+yo tenga un cartón, eso me parece tan absurdo
+
+
+00:14:26.809 --> 00:14:30.250
+que yo digo, o sea, ¿en qué cabeza cabe eso?
+
+
+00:14:30.889 --> 00:14:33.909
+¿No? ¿Tú qué piensas al respecto? Entonces yo
+
+
+00:14:33.909 --> 00:14:40.190
+decía, vea, primero lo volátiles que somos, ¿no?
+
+
+00:14:40.210 --> 00:14:42.870
+Entonces, por cosas de la vida, por los cursos,
+
+
+00:14:42.870 --> 00:14:45.590
+por mis papás, por un montón de factores, dije,
+
+
+00:14:45.610 --> 00:14:48.350
+lo mío es ir a la NASA, ¿sí? Entonces, ¿qué tengo
+
+
+00:14:48.350 --> 00:14:51.740
+que hacer? Empecé a preguntarle, oiga. Pues al
+
+
+00:14:51.740 --> 00:14:53.559
+lado mío no había nadie que trabajara allá, entonces
+
+
+00:14:53.559 --> 00:14:56.500
+me tocaba, ¿usted qué sabe de esa gente? Entonces,
+
+
+00:14:56.500 --> 00:14:59.000
+¿qué geología? ¿Qué ser científica? ¿Qué ser
+
+
+00:14:59.000 --> 00:15:01.379
+física? Hasta que no me senté literal con un
+
+
+00:15:01.379 --> 00:15:04.159
+físico. Me dijo, bueno, sí, pues es uno de los
+
+
+00:15:04.159 --> 00:15:06.279
+caminos, pero se va a demorar un montón y bla,
+
+
+00:15:06.360 --> 00:15:09.559
+bla, bla. Miré y este otro. Entonces, sentarme,
+
+
+00:15:09.700 --> 00:15:14.559
+tener la oportunidad de ver, como tú dices, la
+
+
+00:15:14.559 --> 00:15:18.389
+realidad, porque yo la tenía idealizada. Salgo,
+
+
+00:15:18.389 --> 00:15:21.850
+estudio física, apenas tenga ese cartón firmado,
+
+
+00:15:21.929 --> 00:15:23.990
+alguien va a decir, ay, tú ya tienes la puerta
+
+
+00:15:23.990 --> 00:15:26.809
+de entrada que era el cartón. Ven, sigue, siéntate.
+
+
+00:15:27.110 --> 00:15:30.429
+Y no pasa así también. Fue darme cuenta de eso.
+
+
+00:15:30.570 --> 00:15:32.149
+Yo les preguntaba, bueno, ¿y dónde estudiaron
+
+
+00:15:32.149 --> 00:15:33.730
+física? ¿Y por qué lo hicieron? Blah, blah, blah.
+
+
+00:15:34.129 --> 00:15:36.350
+Dijeron, no, lo que hacemos hoy, más allá de
+
+
+00:15:36.350 --> 00:15:39.529
+ser físicos, lo aprendimos en cursos. Yo, ¿cómo?
+
+
+00:15:39.870 --> 00:15:42.809
+¿Y los contrataron por saber cursos? Sí. Y yo
+
+
+00:15:42.809 --> 00:15:45.230
+ahí, ahí se me volvió a romper el cerebro. Yo
+
+
+00:15:45.230 --> 00:15:47.639
+dije, ¿cómo así? O sea, hay gente que... Ellos
+
+
+00:15:47.639 --> 00:15:49.720
+habían ido a la universidad, pero pues lo que
+
+
+00:15:49.720 --> 00:15:53.679
+hacían en su día a día no era ejercer, ser físicos,
+
+
+00:15:53.679 --> 00:15:56.879
+ser científicos, sino combinarlo con programación,
+
+
+00:15:56.879 --> 00:15:59.860
+con el mundo de la tecnología y resolverle problemas
+
+
+00:15:59.860 --> 00:16:03.440
+a empresas a través de eso. Entonces me quedo
+
+
+00:16:03.440 --> 00:16:07.700
+como la espinita. Empiezo yo con este curso que
+
+
+00:16:07.700 --> 00:16:10.279
+no sabía inglés y ponía el uno y ponía el otro.
+
+
+00:16:11.139 --> 00:16:13.179
+Digo, quiero aprender más de esta vaina, a ver
+
+
+00:16:13.179 --> 00:16:15.970
+a dónde nos lleva. me ganó una beca del MINTIC,
+
+
+00:16:16.049 --> 00:16:18.149
+del Ministerio de las Tecnologías del gobierno
+
+
+00:16:18.149 --> 00:16:23.269
+de mi país, aquí en Colombia, y justamente en
+
+
+00:16:23.269 --> 00:16:29.529
+Platzi, y en ese entonces, en 2019, tenía 16,
+
+
+00:16:29.870 --> 00:16:33.029
+17, empiezo yo a estudiar esta vaina, o sea,
+
+
+00:16:33.090 --> 00:16:35.950
+ciencia nuclear, o sea, una vaina que yo antes
+
+
+00:16:35.950 --> 00:16:38.809
+de entender matemática básica, yo estaba viendo
+
+
+00:16:38.809 --> 00:16:44.000
+algoritmos, redes neuronales, y yo... honestamente,
+
+
+00:16:44.000 --> 00:16:46.539
+y hoy públicamente puedo decir que yo solo pasé
+
+
+00:16:46.539 --> 00:16:48.639
+sus exámenes para que no me quitaran la licencia
+
+
+00:16:48.639 --> 00:16:54.840
+de Platzi. Dije, no, ay, que esto está muy avanzado,
+
+
+00:16:54.899 --> 00:16:57.539
+o sea, ya. Bueno, sí, estuvo chévere, pero no
+
+
+00:16:57.539 --> 00:16:59.940
+podía hacer nada en ese momento con ese conocimiento,
+
+
+00:16:59.960 --> 00:17:03.700
+honestamente. Interesante, pero... Y me consumí
+
+
+00:17:03.700 --> 00:17:07.130
+todo lo demás. Liderazgo. proyectos, manejo las
+
+
+00:17:07.130 --> 00:17:09.329
+emociones. Solo que me fuera gustando y sintiera
+
+
+00:17:09.329 --> 00:17:11.250
+yo que fuera como más masticable, más fácil,
+
+
+00:17:11.349 --> 00:17:14.769
+me empecé a comer todos esos cursos a mi ritmo,
+
+
+00:17:14.769 --> 00:17:17.269
+mi forma, unos más que otros, y llegó la pandemia.
+
+
+00:17:18.309 --> 00:17:22.950
+En 2020, estaba en mi último grado del colegio
+
+
+00:17:22.950 --> 00:17:27.349
+y tenía mucho más tiempo libre. Entonces, me
+
+
+00:17:27.349 --> 00:17:31.000
+comí todos los cursos, marca personal. gestión
+
+
+00:17:31.000 --> 00:17:34.019
+de proyectos, lo que genuinamente me fuera gustando,
+
+
+00:17:34.079 --> 00:17:35.960
+aquí no había ningún profesor ni ningún nadie
+
+
+00:17:35.960 --> 00:17:38.579
+diciéndome, tiene que hacer esto, va a cumplir,
+
+
+00:17:38.579 --> 00:17:40.700
+ya lo había cumplido, ahora sí me dedico como
+
+
+00:17:40.700 --> 00:17:44.140
+a lo que mi corazón decía, y me empecé a comer
+
+
+00:17:44.140 --> 00:17:47.279
+todos esos cursos, no sé si seguimos con la historia,
+
+
+00:17:47.519 --> 00:17:53.160
+pero... algo así empieza a pasar, ya a ese momento
+
+
+00:17:53.160 --> 00:17:54.779
+de tomar la decisión de qué vas a hacer con tu
+
+
+00:17:54.779 --> 00:17:57.599
+vida cuando te gradúes. Antes de seguir ahí,
+
+
+00:17:57.720 --> 00:17:59.700
+justamente estaba buscando acá, porque tengo
+
+
+00:17:59.700 --> 00:18:03.099
+varias noticas y estoy ciego, entonces estaba
+
+
+00:18:03.099 --> 00:18:06.480
+ahí súper concentrado, pucha, ¿dónde está? Pero
+
+
+00:18:06.480 --> 00:18:11.059
+ya la encontré. Caro, tu amiga, te mandó la siguiente
+
+
+00:18:11.059 --> 00:18:13.400
+pregunta, que yo la conecto perfecto con lo que
+
+
+00:18:13.400 --> 00:18:15.059
+estamos hablando ahorita, porque tiene todo el
+
+
+00:18:15.059 --> 00:18:18.099
+sentido, y es... ¿Alguna vez sentiste que no
+
+
+00:18:18.099 --> 00:18:20.940
+te tomaban en serio por tu edad o por no tener
+
+
+00:18:20.940 --> 00:18:26.319
+un título profesional? Sí, pero saltamos en la
+
+
+00:18:26.319 --> 00:18:29.460
+historia porque es que eso no pasó ahí. Termino
+
+
+00:18:29.460 --> 00:18:31.180
+de contar la historia, saltamos a ese momento.
+
+
+00:18:32.519 --> 00:18:35.980
+Bueno, ¿qué pasó? Entonces, empiezo virtual.
+
+
+00:18:36.619 --> 00:18:41.470
+Yo siempre... Tuve buenas notas, era muy viciosa,
+
+
+00:18:41.670 --> 00:18:45.450
+tenía muchas amigas, seguía con mi tema de comunidades
+
+
+00:18:45.450 --> 00:18:47.890
+que en ese momento eran los scouts, no se encierran.
+
+
+00:18:48.670 --> 00:18:50.970
+Y empiezo yo a conectarme más con las comunidades
+
+
+00:18:50.970 --> 00:18:53.950
+de tecnología virtuales, que eran las de Platzi
+
+
+00:18:53.950 --> 00:18:56.130
+en principio. Entonces yo empiezo a ver gente,
+
+
+00:18:56.210 --> 00:18:59.470
+chévere, no sé qué. Tengo que tomar la decisión
+
+
+00:18:59.470 --> 00:19:02.069
+al momento de graduarme. Yo le dije a mi mamá,
+
+
+00:19:02.089 --> 00:19:05.829
+por nada yo estudio virtual. O esperamos que
+
+
+00:19:05.829 --> 00:19:07.369
+se acabe el mundo o algo hacemos, pues yo no
+
+
+00:19:07.369 --> 00:19:11.789
+la estudio. encontramos un bootcamp como una
+
+
+00:19:11.789 --> 00:19:15.410
+formación mucho más rápida para estudiar desarrollo
+
+
+00:19:15.410 --> 00:19:17.630
+de software, uno de los cursos que yo había hecho
+
+
+00:19:17.630 --> 00:19:20.250
+era un tema de programación web por ahí, cuando
+
+
+00:19:20.250 --> 00:19:23.630
+eso era una vaina volando, y bueno eso me parece
+
+
+00:19:23.630 --> 00:19:26.069
+que tiene más sentido a nivel de tecnología porque
+
+
+00:19:26.069 --> 00:19:29.069
+yo le digo, oiga color rojo, y lo había rojo
+
+
+00:19:29.069 --> 00:19:31.990
+esto sí, en cambio con el otro lado que era como
+
+
+00:19:31.990 --> 00:19:34.730
+no, el modelo y la cosa lo sentía muy lejano
+
+
+00:19:34.730 --> 00:19:37.269
+para en ese entonces, entonces dije bueno, sí
+
+
+00:19:37.269 --> 00:19:41.490
+hagámosle Era virtual. Pero pues ya me iba a
+
+
+00:19:41.490 --> 00:19:43.329
+graduar, o sea, ya tenía que tomar una decisión
+
+
+00:19:43.329 --> 00:19:45.690
+también porque mis papás no podían trabajar en
+
+
+00:19:45.690 --> 00:19:49.289
+una pandemia y no parecía que eso fuera a solucionarse
+
+
+00:19:49.289 --> 00:19:52.049
+en pleno 2020. Nos morimos, se acaba el mundo.
+
+
+00:19:52.589 --> 00:19:55.190
+Y empiezo yo entonces a estudiar eso. O sea,
+
+
+00:19:55.230 --> 00:19:57.630
+el día que fue mi última clase del colegio, entro
+
+
+00:19:57.630 --> 00:19:59.970
+yo al bootcamp. Me llaman y me dicen, ¿fuiste
+
+
+00:19:59.970 --> 00:20:01.630
+la primera mujer a aceptar el programa? Y yo,
+
+
+00:20:01.670 --> 00:20:03.410
+o sea, la primera mujer, imposible. Éramos como
+
+
+00:20:03.410 --> 00:20:07.539
+80 y éramos como 6 mujeres. No jodas. Y eso me
+
+
+00:20:07.539 --> 00:20:11.579
+trae esta pregunta. Yo no, de entrada uno no
+
+
+00:20:11.579 --> 00:20:13.799
+dice, oiga, vamos a entrar a una industria donde
+
+
+00:20:13.799 --> 00:20:19.519
+vayan a haber muchas barreras para mí, ¿no? Para
+
+
+00:20:19.519 --> 00:20:22.779
+lo que soy, para lo que tengo hoy. No, uno no
+
+
+00:20:22.779 --> 00:20:26.160
+lo piensa de esa manera claramente, pero en el
+
+
+00:20:26.160 --> 00:20:29.299
+camino, y esa fue la primera vez que me pasó,
+
+
+00:20:29.380 --> 00:20:33.779
+yo como que se hizo. Y de las... 60 que nos graduamos
+
+
+00:20:33.779 --> 00:20:37.500
+del colegio, por ahí 3 o 4 escogimos algún área
+
+
+00:20:37.500 --> 00:20:41.400
+STEM en ese momento. Entonces, a mí me empieza
+
+
+00:20:41.400 --> 00:20:43.599
+como a cagar el tema, ¿sabes? Como, hmm, qué
+
+
+00:20:43.599 --> 00:20:46.880
+extraño. Entonces, no fue que no me tomaran en
+
+
+00:20:46.880 --> 00:20:50.140
+serio, al menos en ese punto, y me pasó al contrario,
+
+
+00:20:50.180 --> 00:20:54.339
+algo chistoso. Nos tocó, bueno, avanzamos en
+
+
+00:20:54.339 --> 00:20:57.500
+el programa, nos tocaba hacer como la tesis y
+
+
+00:20:57.500 --> 00:21:01.440
+todas las... los participantes del programa ya
+
+
+00:21:01.440 --> 00:21:04.079
+tenían una carrera en ingenieros civiles, químicos,
+
+
+00:21:04.160 --> 00:21:07.819
+farmacéuticos y estaban cambiando. Yo estaba
+
+
+00:21:07.819 --> 00:21:10.079
+haciendo mis primeros pasos en el mundo de la
+
+
+00:21:10.079 --> 00:21:14.480
+tecnología y me dijeron en mi grupo, hombres,
+
+
+00:21:14.599 --> 00:21:17.140
+todos hombres, yo era la única chica del grupo,
+
+
+00:21:17.299 --> 00:21:20.559
+la más joven, dijeron, ¿sabes qué? Tú vas a ser
+
+
+00:21:20.559 --> 00:21:22.880
+la Scrum Master como la líder porque tú eres
+
+
+00:21:22.880 --> 00:21:26.359
+chiquita y a ti sí te hacemos caso. Y yo, así,
+
+
+00:21:26.539 --> 00:21:30.150
+de verdad. O sea, yo todavía me acuerdo. Y yo,
+
+
+00:21:30.170 --> 00:21:36.450
+¿en serio? Yo, bueno, saca a las chiquitas. Listo,
+
+
+00:21:36.630 --> 00:21:40.490
+hagámosle. Y pues siempre fui una líder en mi
+
+
+00:21:40.490 --> 00:21:43.750
+grupo, en las comunidades, en lo que hacía. Entonces,
+
+
+00:21:43.789 --> 00:21:46.109
+para mí, pues era un tema más natural y prefería
+
+
+00:21:46.109 --> 00:21:48.650
+ser la líder que estar como echando código. Entonces,
+
+
+00:21:48.690 --> 00:21:51.329
+dije, bueno, hagámosle. Yo defino las tareas
+
+
+00:21:51.329 --> 00:21:54.210
+y qué hacemos. En algún punto me dijeron, oiga,
+
+
+00:21:54.289 --> 00:21:56.410
+no, bueno, también tome las notas de la reunión.
+
+
+00:21:56.569 --> 00:22:02.359
+Y yo, ah. Tampoco, tampoco. Entonces para el
+
+
+00:22:02.359 --> 00:22:05.299
+tema administrativo y yo no. O sea, hacemos una
+
+
+00:22:05.299 --> 00:22:07.119
+herramienta, hagamos algo, escribo a cada uno
+
+
+00:22:07.119 --> 00:22:10.539
+sus tareas, pero es una cosa distinta ser la
+
+
+00:22:10.539 --> 00:22:13.700
+líder a ser la que se encarga de las cosas administrativas
+
+
+00:22:13.700 --> 00:22:17.740
+que históricamente nos ha pasado. Llegó el momento
+
+
+00:22:17.740 --> 00:22:20.599
+de conseguir mi primer trabajo. Yo sabía que
+
+
+00:22:20.599 --> 00:22:23.460
+me tocaba un poquito más difícil. Antes de seguir,
+
+
+00:22:23.640 --> 00:22:26.660
+antes de seguir. O sea, porque imagino que eso
+
+
+00:22:26.660 --> 00:22:29.359
+todavía era pandemia, ¿cierto? Hay una pregunta
+
+
+00:22:29.359 --> 00:22:35.559
+que te mandaron tus papás y es que creo que esta
+
+
+00:22:35.559 --> 00:22:41.819
+no está en la lista que tuviste. Y es, ¿qué mentalidad
+
+
+00:22:41.819 --> 00:22:43.920
+o necesidad te hizo ver la pandemia como una
+
+
+00:22:43.920 --> 00:22:45.880
+oportunidad y no como un obstáculo? No sé si
+
+
+00:22:45.880 --> 00:22:50.799
+esa está, pero esto me lleva a pensar en, venga,
+
+
+00:22:50.920 --> 00:22:54.799
+mucha gente cuando se cerró todo. O sea, para
+
+
+00:22:54.799 --> 00:22:58.039
+ellos se les vino el mundo abajo, ¿no? Y hay
+
+
+00:22:58.039 --> 00:23:00.759
+que tener una mentalidad, una forma de ver las
+
+
+00:23:00.759 --> 00:23:05.519
+cosas muy, muy, o sea, no quiero decir específica,
+
+
+00:23:05.519 --> 00:23:08.579
+pero por lo menos un poco diferente. Porque,
+
+
+00:23:08.640 --> 00:23:12.160
+bueno, o sea, como te digo, para mucha gente
+
+
+00:23:12.160 --> 00:23:15.779
+se les vino el mundo abajo. De una. Sí, y ahorita
+
+
+00:23:15.779 --> 00:23:17.579
+retomamos la de tomarme en serio porque se han
+
+
+00:23:17.579 --> 00:23:21.880
+sido varios en el camino. Sí, tranquilo. Yo regreso
+
+
+00:23:21.880 --> 00:23:27.450
+a las conversaciones. Ya volvemos. Sí, la pandemia,
+
+
+00:23:27.609 --> 00:23:30.230
+porque aquí ya vamos saliendo de la pandemia
+
+
+00:23:30.230 --> 00:23:33.670
+en cierta forma. ¿Qué pasa? Uno, yo me la paso
+
+
+00:23:33.670 --> 00:23:35.490
+por fuera de mi casa todos los días, a toda hora.
+
+
+00:23:35.609 --> 00:23:37.130
+Yo decía, oiga, el día que yo me quede en mi
+
+
+00:23:37.130 --> 00:23:40.109
+casa y pueda sentarme a estudiar o pueda sentarme
+
+
+00:23:40.109 --> 00:23:42.529
+como a dedicarme a hacer una vaina, ese día va
+
+
+00:23:42.529 --> 00:23:46.269
+a ser muy chévere. Paso. Pues eso, no creo que
+
+
+00:23:46.269 --> 00:23:50.589
+haya manifestado la pandemia, ojalá. Pero ya
+
+
+00:23:50.589 --> 00:23:53.599
+era todos los días, a toda hora. pues el currículum
+
+
+00:23:53.599 --> 00:23:56.880
+del colegio se volvió más corto, era una dinámica
+
+
+00:23:56.880 --> 00:24:01.640
+distinta. Al inicio me costó mucho, debo confesarlo.
+
+
+00:24:01.660 --> 00:24:04.279
+O sea, yo ya no participaba en clase, no prendía
+
+
+00:24:04.279 --> 00:24:06.420
+la cámara, para mí era imposible prender el micrófono,
+
+
+00:24:06.460 --> 00:24:09.440
+decía, qué boleta. No sé, pues supongo que no
+
+
+00:24:09.440 --> 00:24:11.819
+nos habíamos enfrentado nunca a una vaina así.
+
+
+00:24:12.380 --> 00:24:15.740
+Pero, y por el tema de las comunidades y lo que
+
+
+00:24:15.740 --> 00:24:18.519
+te mencionaba ahorita, me di cuenta que uno,
+
+
+00:24:18.539 --> 00:24:20.700
+todos estábamos en las mismas. Todo el mundo
+
+
+00:24:20.700 --> 00:24:22.319
+estaba sentado en la casa, no sé qué, guardado.
+
+
+00:24:22.619 --> 00:24:26.220
+Entonces ahí empezó a caer en mi cabeza, o sea,
+
+
+00:24:26.339 --> 00:24:29.880
+tengo mi disposición a cualquier persona del
+
+
+00:24:29.880 --> 00:24:33.460
+mundo, del planeta entero. Porque entonces empecé
+
+
+00:24:33.460 --> 00:24:36.319
+a aprender de LinkedIn, a aprender de otras cosas,
+
+
+00:24:36.339 --> 00:24:38.539
+de redes sociales, de no sé qué. Y dije, oiga,
+
+
+00:24:38.680 --> 00:24:41.599
+yo puedo llamar al que a mí se me la gane. Y
+
+
+00:24:41.599 --> 00:24:43.579
+como está en la casa, es más fácil porque me
+
+
+00:24:43.579 --> 00:24:46.740
+va a contestar. ¡Brutal! No, o sea, para mí fue
+
+
+00:24:46.740 --> 00:24:50.359
+el cielo y también porque eso. Me podía dedicar
+
+
+00:24:50.359 --> 00:24:52.460
+de lleno a estar en mi casa, estar en el computador,
+
+
+00:24:52.640 --> 00:24:55.299
+ver videos, hacer un montón de vainas. En algún
+
+
+00:24:55.299 --> 00:24:57.160
+punto se volvió aburrido, ¿no? Debo confesarlo.
+
+
+00:24:57.720 --> 00:25:01.099
+Pero al inicio dije, es el momento, o sea, es
+
+
+00:25:01.099 --> 00:25:05.720
+aquí, ¿dónde va a ser? Y más porque también buscaba
+
+
+00:25:05.720 --> 00:25:08.380
+como entretenerme, como estar ocupada, entonces
+
+
+00:25:08.380 --> 00:25:10.640
+por eso como que en parte también fue la opción
+
+
+00:25:10.640 --> 00:25:13.240
+de tomar el programa. Y más allá, pues por una
+
+
+00:25:13.240 --> 00:25:17.519
+necesidad puntual, que eran mis papás, mi papá
+
+
+00:25:17.519 --> 00:25:20.259
+trabaja en Uber, mi mamá, me cuidaba, entonces
+
+
+00:25:20.259 --> 00:25:22.539
+no habían ingresos, y el programa decía, vamos
+
+
+00:25:22.539 --> 00:25:26.119
+a dar un estipendio de 300 mil pesos al mes para
+
+
+00:25:26.119 --> 00:25:29.039
+el internet. Yo dije, golazo, o sea, estudio
+
+
+00:25:29.039 --> 00:25:32.140
+y me van a pagar, Diosito, gracias. Entonces
+
+
+00:25:32.140 --> 00:25:35.079
+creo que fue, además, atado a una necesidad,
+
+
+00:25:35.240 --> 00:25:37.799
+porque pues, de nuevo, lo hemos visto en la historia,
+
+
+00:25:37.859 --> 00:25:39.660
+yo nunca dije, quiero ser desarrolladora cuando
+
+
+00:25:39.660 --> 00:25:43.319
+sea grande, no. Y dije, voy a poner todos los
+
+
+00:25:43.319 --> 00:25:45.960
+huevos de la canasta aquí, yo no sé si esto va
+
+
+00:25:45.960 --> 00:25:47.819
+a funcionar, pero al menos va a ser nueve meses
+
+
+00:25:47.819 --> 00:25:49.849
+y no cinco años. Entonces, vamos a hacer una
+
+
+00:25:49.849 --> 00:25:51.789
+apuesta grande, le voy a meter toda la ficha,
+
+
+00:25:51.809 --> 00:25:56.849
+porque además necesitaba lograrlo para tener
+
+
+00:25:56.849 --> 00:26:00.190
+una buena calidad de vida, para sostenernos en
+
+
+00:26:00.190 --> 00:26:04.490
+familia. Ahí pasa, entonces, bueno, saliendo
+
+
+00:26:04.490 --> 00:26:06.609
+al tema, decimos la tesis y no sé qué. Al quinto
+
+
+00:26:06.609 --> 00:26:09.490
+mes, yo, la mañoña, o sea, cosa que me decían
+
+
+00:26:09.490 --> 00:26:11.789
+ahora el Indy, yo lo haría. Comparta contenido,
+
+
+00:26:11.950 --> 00:26:15.259
+yo compartiría contenido. Le das estos... Libros,
+
+
+00:26:15.259 --> 00:26:17.240
+ahora estos cursos, yo los hacía, o sea, al pie
+
+
+00:26:17.240 --> 00:26:19.220
+de la letra, aplicando todo eso que me estaban
+
+
+00:26:19.220 --> 00:26:22.980
+diciendo. Sulfió efecto en una de esas conversaciones
+
+
+00:26:22.980 --> 00:26:26.519
+que nos llevaban cada miércoles de un emprendedor
+
+
+00:26:26.519 --> 00:26:30.000
+muy teso. Conozco al que fue mi primer jefe.
+
+
+00:26:30.720 --> 00:26:33.019
+Digo, me encanta lo que hace. Le escribí por
+
+
+00:26:33.019 --> 00:26:36.559
+LinkedIn. Y creo que ahí va respondiendo ese
+
+
+00:26:36.559 --> 00:26:39.740
+tema de no tener título, no sé qué. Le escribí
+
+
+00:26:39.740 --> 00:26:42.500
+por LinkedIn que había una vacante. en su empresa
+
+
+00:26:42.500 --> 00:26:44.200
+que me gustaría ser parte, ser project manager,
+
+
+00:26:44.339 --> 00:26:47.359
+ser líder del proyecto. Yo leí, me acuerdo mucho
+
+
+00:26:47.359 --> 00:26:49.599
+de leer las especificaciones, y era como trabajo
+
+
+00:26:49.599 --> 00:26:52.940
+en equipo, liderazgo y ser organizador. ¿Las
+
+
+00:26:52.940 --> 00:26:59.279
+cumplo? Soy yo. Y a mi alrededor, yo sé que ellos
+
+
+00:26:59.279 --> 00:27:01.900
+no me lo dijeron, pero mi profe de proyecto de
+
+
+00:27:01.900 --> 00:27:03.640
+grado, mis papás, mi familia, nadie me dijo,
+
+
+00:27:03.660 --> 00:27:06.480
+usted no puede. Pero todos decían, bueno, dejémosla
+
+
+00:27:06.480 --> 00:27:08.960
+que se estrelle. Entonces, ¿cómo que me hacían?
+
+
+00:27:10.270 --> 00:27:12.130
+Les hacía preguntas y ellos me respondían, pero
+
+
+00:27:12.130 --> 00:27:14.250
+como que yo sentía de alguna forma que ellos
+
+
+00:27:14.250 --> 00:27:17.990
+eran como, pues no le vamos a dañar pues su ilusión.
+
+
+00:27:19.170 --> 00:27:21.130
+Pasó que yo me senté con mi profe y le dije,
+
+
+00:27:21.190 --> 00:27:22.930
+dígame qué es Scrum, dígame todo, no sé qué,
+
+
+00:27:22.970 --> 00:27:26.690
+me preparé. Porque al momento, ah bueno, me respondió
+
+
+00:27:26.690 --> 00:27:28.930
+y me dio espacio para una entrevista, porque
+
+
+00:27:28.930 --> 00:27:30.849
+yo le dije, hola, te vi en tal lado, no sé qué,
+
+
+00:27:30.950 --> 00:27:34.970
+como me habían dicho que tocaba hacerlo. Y en
+
+
+00:27:34.970 --> 00:27:38.339
+la entrevista... Me dijo, me encanta. O sea,
+
+
+00:27:38.339 --> 00:27:44.019
+era como, he hecho proyectos en el colegio. Yo
+
+
+00:27:44.019 --> 00:27:46.400
+sé, sí, estoy aprendiendo Scrum Master, no sé
+
+
+00:27:46.400 --> 00:27:49.819
+qué. Soy desarrolladora. Y me dijo, oiga, si
+
+
+00:27:49.819 --> 00:27:51.880
+estamos con alguien junior, pero no tan junior,
+
+
+00:27:52.000 --> 00:27:55.900
+¿sabes? Y yo, no, pues, total. Pero de pronto
+
+
+00:27:55.900 --> 00:27:58.259
+de QA, ¿te gustaría? Y yo, ni idea que era QA.
+
+
+00:27:58.380 --> 00:28:01.400
+Y yo, sí, sí, de una. Luego supe que era hacer
+
+
+00:28:01.400 --> 00:28:04.640
+pruebas al software. Menos mal, no sé en dónde
+
+
+00:28:04.640 --> 00:28:08.240
+estaría. No sé por qué dije que sí. Pasaron unas
+
+
+00:28:08.240 --> 00:28:11.140
+semanas y me volvió a llamar y me dijo, ¿vas
+
+
+00:28:11.140 --> 00:28:13.960
+a tener un encuentro con tu próxima jefa? Me
+
+
+00:28:13.960 --> 00:28:16.920
+senté con ella y más allá en una entrevista yo
+
+
+00:28:16.920 --> 00:28:18.619
+le pregunté, ¿y qué es un project manager? Y
+
+
+00:28:18.619 --> 00:28:22.059
+cuando te levantas, ¿qué haces? O sea, la entrevisté
+
+
+00:28:22.059 --> 00:28:24.839
+yo a ella. Dije, mira, ¿cómo te tratas cuando
+
+
+00:28:24.839 --> 00:28:27.200
+salgamos de acá? Yo ya sé qué quiero hacer por
+
+
+00:28:27.200 --> 00:28:28.960
+el resto de mi vida. Quiero dedicarme a hacer
+
+
+00:28:28.960 --> 00:28:32.779
+esto. Gracias. Bueno, el resto es historia, entré
+
+
+00:28:32.779 --> 00:28:36.359
+a la empresa, tocó sacar un permiso en el Ministerio
+
+
+00:28:36.359 --> 00:28:38.220
+del Trabajo porque era menor de edad, apostaron
+
+
+00:28:38.220 --> 00:28:41.339
+por mí, tres meses de shadowing, de estar con
+
+
+00:28:41.339 --> 00:28:46.000
+mi líder aprendiendo de ella, y a los tres meses
+
+
+00:28:46.000 --> 00:28:48.700
+me soltaron el primer proyecto. Entonces, más
+
+
+00:28:48.700 --> 00:28:51.619
+allá de que no confiaran por un tema de título
+
+
+00:28:51.619 --> 00:28:55.359
+o cosas así, creo que era un tema más de yo cómo
+
+
+00:28:55.359 --> 00:28:58.900
+me vendía, y creo que aquí el mensaje es... Yo
+
+
+00:28:58.900 --> 00:29:00.920
+no tenía ni el cartón firmado porque no me había
+
+
+00:29:00.920 --> 00:29:04.039
+graduado, ni ninguna vaina que usted diga, no,
+
+
+00:29:04.039 --> 00:29:07.900
+sí, ella es. Más allá de yo comprometerme a seguir
+
+
+00:29:07.900 --> 00:29:10.539
+aprendiendo, a estar dispuesta a ponerme a hacer
+
+
+00:29:10.539 --> 00:29:15.920
+lo que fuera. Y esas ganas de querer hacerlo,
+
+
+00:29:16.059 --> 00:29:18.940
+yo siento que jugaron ahí. Más adelante en el
+
+
+00:29:18.940 --> 00:29:22.019
+camino vamos a explorar otros, pero esa es la
+
+
+00:29:22.019 --> 00:29:25.420
+historia de cómo llegué al primero de mis trabajos
+
+
+00:29:25.420 --> 00:29:29.539
+y de ahí en adelante muchísimos más. pero no
+
+
+00:29:29.539 --> 00:29:31.160
+fue un impedimento. Yo me pude creer el cuento,
+
+
+00:29:31.240 --> 00:29:33.500
+¿sí? Yo sí, pero no, yo no sé nada, no me he
+
+
+00:29:33.500 --> 00:29:36.759
+graduado, no. Al contrario, con lo que tengo,
+
+
+00:29:36.779 --> 00:29:38.240
+vamos a ver. Y todo el mundo era como, en serio,
+
+
+00:29:38.339 --> 00:29:41.859
+te dieron un trabajo. Y yo, sí, empieza tal día.
+
+
+00:29:41.980 --> 00:29:44.480
+Era como, no puede ser. Y te van a sacar el permiso
+
+
+00:29:44.480 --> 00:29:46.380
+que les vale un montón a la empresa. Yo, sí.
+
+
+00:29:47.099 --> 00:29:49.500
+Entonces, sí se puede, sí se puede. Me acabé
+
+
+00:29:49.500 --> 00:29:52.079
+de graduar, estaba aprendiendo apenas y entré.
+
+
+00:29:52.099 --> 00:29:56.089
+Y no de aprendizaje ni nada. Real. Y me estaba
+
+
+00:29:56.089 --> 00:29:58.130
+ganando más del mínimo en esa época. No, me gané
+
+
+00:29:58.130 --> 00:30:01.190
+la lotería, mejor dicho. Bueno, si llegaste hasta
+
+
+00:30:01.190 --> 00:30:02.950
+acá es porque te está gustando el episodio que
+
+
+00:30:02.950 --> 00:30:04.890
+estás escuchando el día de hoy, que en este caso
+
+
+00:30:04.890 --> 00:30:08.390
+es el de Aleja y Nao. Y nada, hay una cosa que
+
+
+00:30:08.390 --> 00:30:10.910
+ayuda muchísimo a Inminente Podcast a crecer
+
+
+00:30:10.910 --> 00:30:14.170
+y es que califiques el podcast en la plataforma
+
+
+00:30:14.170 --> 00:30:16.369
+en la que te encuentres. Sea Spotify, sea Apple
+
+
+00:30:16.369 --> 00:30:19.190
+Podcast, sea YouTube dejando tu like o tu comentario.
+
+
+00:30:19.250 --> 00:30:22.009
+Así que... De nuevo, si quieres apoyar Inminente,
+
+
+00:30:22.109 --> 00:30:25.690
+lo puedes hacer de forma gratuita dejando tu
+
+
+00:30:25.690 --> 00:30:28.730
+calificación, tu comentario, o simplemente compartiendo
+
+
+00:30:28.730 --> 00:30:31.049
+este episodio con alguien que tú consideras que
+
+
+00:30:31.049 --> 00:30:33.569
+podría aprovechar mucho esta información y esta
+
+
+00:30:33.569 --> 00:30:35.130
+conversación que estamos teniendo el día de hoy.
+
+
+00:30:35.390 --> 00:30:38.930
+Así que, con esto dicho, volvemos a la conversación
+
+
+00:30:38.930 --> 00:30:42.430
+y al episodio con Aleja Henao. ¿Sabes qué es
+
+
+00:30:42.430 --> 00:30:44.509
+una cosa? Tengo un montón de apuntes en mi cabeza
+
+
+00:30:44.509 --> 00:30:47.710
+guardados de todo lo que has dicho en esta última
+
+
+00:30:47.710 --> 00:30:52.720
+parte. Lo primero... es que, o sea, yo creo que
+
+
+00:30:52.720 --> 00:30:56.500
+en la pandemia muchas cabezas se conectaron alrededor
+
+
+00:30:56.500 --> 00:30:59.759
+de lo mismo. Porque Inminente comenzó en 2020
+
+
+00:30:59.759 --> 00:31:03.480
+a raíz de que también estaba en la casa, el colegio
+
+
+00:31:03.480 --> 00:31:05.740
+por fin se volvió una cosa tan mínima que yo
+
+
+00:31:05.740 --> 00:31:08.740
+tenía el 90 % de mi vida para hacer lo que me
+
+
+00:31:08.740 --> 00:31:11.799
+diera la gana. Entonces yo decía, bueno, acabé
+
+
+00:31:11.799 --> 00:31:14.119
+las clases, ¿ahora qué voy a hacer? No puedo
+
+
+00:31:14.119 --> 00:31:18.279
+salir, no puedo hacer absolutamente nada. Eso
+
+
+00:31:18.279 --> 00:31:22.960
+o morir en TikTok todo el día. Entonces, empiezo
+
+
+00:31:22.960 --> 00:31:24.920
+a conocer un montón de gente y yo dije, parce,
+
+
+00:31:25.039 --> 00:31:27.900
+o sea, puedo escribirle a quien me dé la gana.
+
+
+00:31:28.579 --> 00:31:32.180
+Pero, eso no solo fue una ventana, y es un apunte
+
+
+00:31:32.180 --> 00:31:34.140
+que me parece muy importante, no solo fue una
+
+
+00:31:34.140 --> 00:31:37.180
+ventana por la pandemia. O sea, actualmente,
+
+
+00:31:37.279 --> 00:31:40.440
+y de hecho, Inminente sigue vivo por eso. Porque
+
+
+00:31:40.440 --> 00:31:42.700
+yo todos los días le mando mensajes por Instagram,
+
+
+00:31:42.880 --> 00:31:46.140
+por Gmail, a todo el mundo. O sea, si... Si tú
+
+
+00:31:46.140 --> 00:31:48.400
+miras mi correo electrónico, es muy divertido
+
+
+00:31:48.400 --> 00:31:51.079
+porque yo le apunto a todo el mundo. O sea, yo
+
+
+00:31:51.079 --> 00:31:56.019
+mando unos correos que son absurdos. Pero algunos
+
+
+00:31:56.019 --> 00:31:58.579
+de esos correos que son tan absurdos que yo le
+
+
+00:31:58.579 --> 00:32:03.619
+apuesto 0 % de probabilidad de respuesta, terminan
+
+
+00:32:03.619 --> 00:32:08.380
+respondiendo. Y yo digo, ¿qué carajos? Y eso
+
+
+00:32:08.380 --> 00:32:11.900
+me ha llevado a estar en situaciones muy random.
+
+
+00:32:12.589 --> 00:32:15.549
+En mis 20 años, ¿cierto? Entonces, la mayoría
+
+
+00:32:15.549 --> 00:32:17.910
+de personas que escucha este podcast tiene nuestra
+
+
+00:32:17.910 --> 00:32:22.329
+edad. Así que yo siento que a veces hay que ser
+
+
+00:32:22.329 --> 00:32:26.569
+un poquito bruto pero decidido. Porque los brutos
+
+
+00:32:26.569 --> 00:32:29.569
+pero decididos llegan más lejos que los que sienten
+
+
+00:32:29.569 --> 00:32:32.650
+que tienen que estar así perfectos y súper preparados
+
+
+00:32:32.650 --> 00:32:35.049
+para lo que vayan a hacer. No, hombre, va a llegar
+
+
+00:32:35.049 --> 00:32:37.630
+primero un bruto pero decidido que va a armar
+
+
+00:32:37.630 --> 00:32:40.210
+el avión en el aire. Yo les voy a ayudar más
+
+
+00:32:40.210 --> 00:32:42.990
+que los brutos pero decididos. el tema de las
+
+
+00:32:42.990 --> 00:32:46.509
+redes sociales, yo empecé en TikTok, o sea, además
+
+
+00:32:46.509 --> 00:32:49.109
+fui a saber, entonces yo no, me levanté y me
+
+
+00:32:49.109 --> 00:32:52.369
+comí un huevo, o sea, una vaina que yo sé, así
+
+
+00:32:52.369 --> 00:32:58.049
+como, un día como desarrolladora, y empecé como
+
+
+00:32:58.049 --> 00:33:00.150
+a entrenar ese músculo, y la gente ya era como,
+
+
+00:33:00.309 --> 00:33:02.970
+wow, ¿cómo inicio? No sé qué, y yo, ¿en serio?
+
+
+00:33:03.289 --> 00:33:06.769
+Entonces empiezo yo también como un canal súper
+
+
+00:33:06.769 --> 00:33:10.390
+importante, las redes sociales, Y además, empieza
+
+
+00:33:10.390 --> 00:33:12.549
+a pasar que no solo los brutos pero decididos
+
+
+00:33:12.549 --> 00:33:14.849
+llegan, sino uno ve al man y uno dice, estaba
+
+
+00:33:14.849 --> 00:33:17.509
+menos preparada, y yo que tengo acá todo, no
+
+
+00:33:17.509 --> 00:33:21.529
+lo he logrado. Pero, cacaraquio más. ¿Qué huevos
+
+
+00:33:21.529 --> 00:33:25.430
+conocemos más? ¿Los del avestruz o los de la
+
+
+00:33:25.430 --> 00:33:28.170
+gallina? Los de la gallina, pero son más nutritivos
+
+
+00:33:28.170 --> 00:33:30.730
+los otros. ¿Qué pasa? Que la gallina pone huevos
+
+
+00:33:30.730 --> 00:33:34.410
+y cacarea. Esa es la diferencia. contar todo,
+
+
+00:33:34.549 --> 00:33:37.269
+hoy me levanté, no sé qué, no sé qué, hoy a nadie
+
+
+00:33:37.269 --> 00:33:40.450
+le importa, pero en cinco años, cuando vean que
+
+
+00:33:40.450 --> 00:33:42.170
+esa niña que se levantaba a las cinco de la mañana
+
+
+00:33:42.170 --> 00:33:45.410
+a estudiar y lo subía a TikTok, le pegó a algo,
+
+
+00:33:45.529 --> 00:33:48.750
+pues miren que sí funciona, entonces empezar
+
+
+00:33:48.750 --> 00:33:52.269
+a cacarequear, a contar todo eso para que no
+
+
+00:33:52.269 --> 00:33:54.769
+pase que el que está menos preparado, el que
+
+
+00:33:54.769 --> 00:33:57.609
+no sé qué, ya lo logró, pero yo ya tengo todo
+
+
+00:33:57.609 --> 00:34:00.069
+y no lo he hecho, bueno, él se vendió más, envió
+
+
+00:34:00.069 --> 00:34:02.579
+más correos. o subió más videos, o habló con
+
+
+00:34:02.579 --> 00:34:05.539
+más personas. Ese es el truco, el secreto de
+
+
+00:34:05.539 --> 00:34:10.940
+la corona. Y además hay otra cosa que está un
+
+
+00:34:10.940 --> 00:34:13.139
+poco relacionado a lo que hablamos del cartón,
+
+
+00:34:13.159 --> 00:34:17.199
+y es que he podido escuchar más de una historia
+
+
+00:34:17.199 --> 00:34:20.159
+en este podcast, donde el cartón, o sea, cuando
+
+
+00:34:20.159 --> 00:34:24.280
+llegaron a ese aclamado cartón, cuando iban a
+
+
+00:34:24.280 --> 00:34:27.179
+buscar un trabajo, Sentían lo contrario. Sentían
+
+
+00:34:27.179 --> 00:34:30.139
+que les pesaba porque, pucha, yo no soy suficiente
+
+
+00:34:30.139 --> 00:34:33.019
+para merecer este cartón. Y eso es peor porque
+
+
+00:34:33.019 --> 00:34:35.739
+las expectativas cuando llegan a una empresa
+
+
+00:34:35.739 --> 00:34:41.940
+van a estar por los cielos. ¿Y qué pasa si ese
+
+
+00:34:41.940 --> 00:34:44.800
+cartón no me da con esas expectativas que me
+
+
+00:34:44.800 --> 00:34:49.320
+están pidiendo hoy? Exactamente. A diferencia
+
+
+00:34:49.320 --> 00:34:52.230
+de si uno se vende como, venga. Esto es lo que
+
+
+00:34:52.230 --> 00:34:54.150
+yo soy, esto es lo que hay. Vea, yo puedo tener
+
+
+00:34:54.150 --> 00:34:57.130
+20 .000 cartones, pero esto es lo que yo sé hacer
+
+
+00:34:57.130 --> 00:35:01.909
+y ya. Y de hecho, hay una cosa muy divertida
+
+
+00:35:01.909 --> 00:35:05.530
+que yo he hecho últimamente y es que me di cuenta
+
+
+00:35:05.530 --> 00:35:10.210
+de que aplicar, por ejemplo, a trabajos como
+
+
+00:35:10.210 --> 00:35:13.369
+crear de contenido en agencias de podcast o en
+
+
+00:35:13.369 --> 00:35:17.030
+mismos podcast que yo escucho, me sirve como
+
+
+00:35:17.030 --> 00:35:21.699
+brújula para saber qué hacer en mi podcast. Y
+
+
+00:35:21.699 --> 00:35:25.000
+entonces en una de esas... No sabías. Te preguntan
+
+
+00:35:25.000 --> 00:35:27.280
+como, ¿qué harías si tu podcast...? No sé, me
+
+
+00:35:27.280 --> 00:35:29.320
+estoy inventando. No tiene tantas visualizaciones.
+
+
+00:35:29.500 --> 00:35:31.739
+Y no hay, sí. Entonces para el podcast. Además,
+
+
+00:35:31.739 --> 00:35:36.800
+mientras aprende y de pronto se gana un sí, se
+
+
+00:35:36.800 --> 00:35:41.159
+apunta algo ahí para su proyecto propio. Exactamente.
+
+
+00:35:41.159 --> 00:35:44.159
+Y me pasó eso mismo en el uso de inteligencia
+
+
+00:35:44.159 --> 00:35:46.099
+artificial. Hay un podcast que la está rompiendo
+
+
+00:35:46.099 --> 00:35:48.380
+y que está creciendo de forma muy acelerada.
+
+
+00:35:48.500 --> 00:35:51.420
+Y estaban buscando... una persona que los ayudara
+
+
+00:35:51.420 --> 00:35:54.179
+a hacer ciertas cosas de creación, pero con IA.
+
+
+00:35:54.440 --> 00:35:57.099
+Y yo dije, ja, voy a aplicar. Pasé a todas las
+
+
+00:35:57.099 --> 00:35:58.980
+entrevistas, al final no me llamaron por la cuestión
+
+
+00:35:58.980 --> 00:36:03.760
+del tiempo, o eso creo, no lo sé. Ojalá. Ojalá.
+
+
+00:36:05.539 --> 00:36:10.280
+Pero, me ayudaron a mí, porque, o sea, mientras
+
+
+00:36:10.280 --> 00:36:13.360
+hacía yo la prueba como técnica, me ayudaron
+
+
+00:36:13.360 --> 00:36:15.719
+a mí a crear un sistema de inteligencia artificial
+
+
+00:36:15.719 --> 00:36:18.550
+para mi podcast. Entonces fue como... O sea,
+
+
+00:36:18.630 --> 00:36:23.250
+golié. Total. Y a mí me pasaba, pues esto, ¿no
+
+
+00:36:23.250 --> 00:36:25.170
+les digo? O sea, tuve que exprimir a mi profesor
+
+
+00:36:25.170 --> 00:36:27.150
+y decirle, deme todo lo que sepa de proyectos.
+
+
+00:36:27.250 --> 00:36:31.090
+O sea, tenía que guardarme, al menos para poder
+
+
+00:36:31.090 --> 00:36:33.469
+saber responder en ese entonces. Y luego uno
+
+
+00:36:33.469 --> 00:36:39.010
+malea las cosas. Pero más adelante me di cuenta
+
+
+00:36:39.010 --> 00:36:40.650
+que alguien, y siguiendo con la historia aquí,
+
+
+00:36:40.690 --> 00:36:44.349
+conectándolo, veo a alguien de la comunidad,
+
+
+00:36:44.429 --> 00:36:47.800
+para mí, mi Disney, mi Google, mi... El sueño
+
+
+00:36:47.800 --> 00:36:49.739
+cumplido era trabajar en Platzi. Uno, porque
+
+
+00:36:49.739 --> 00:36:53.199
+había estudiado ahí y porque como que me sentía
+
+
+00:36:53.199 --> 00:36:55.059
+muy identificada con la misión de la educación.
+
+
+00:36:55.659 --> 00:36:57.539
+Entonces dije, bueno, chévere trabajar allá.
+
+
+00:36:57.760 --> 00:37:00.179
+Vi a alguien que pasó de ser de la comunidad
+
+
+00:37:00.179 --> 00:37:04.119
+a trabajar allá. Le escribí por Telegram, cuando
+
+
+00:37:04.119 --> 00:37:07.519
+usábamos Telegram. Dije, hola, ¿cómo estás? ¿Me
+
+
+00:37:07.519 --> 00:37:09.440
+podrías contar cómo hiciste? Felicitaciones.
+
+
+00:37:09.519 --> 00:37:12.199
+O sea, si se dan cuenta, esto ha sido así. Desde
+
+
+00:37:12.199 --> 00:37:14.440
+que la startup, usted qué hace detrás de ese
+
+
+00:37:14.440 --> 00:37:16.590
+computador. O sea, ser curiosos. ¿Usted cómo
+
+
+00:37:16.590 --> 00:37:19.190
+lo hizo? ¿Me cuenta? Y yo miré, miraré si me
+
+
+00:37:19.190 --> 00:37:21.170
+gusta, si no me gusta. Entonces el man me dijo
+
+
+00:37:21.170 --> 00:37:22.969
+como, sí, no, de esta manera, tienes que tener
+
+
+00:37:22.969 --> 00:37:25.610
+ABC. ¿Me pasas tu LinkedIn para ver? Me dijo
+
+
+00:37:25.610 --> 00:37:27.929
+como, tienes un muy buen perfil, ¿quieres que
+
+
+00:37:27.929 --> 00:37:32.670
+te refiera? Y yo, a mí, allá. ¿En serio? Sí.
+
+
+00:37:33.989 --> 00:37:37.250
+Y yo, bueno, yo estaba muy feliz en la empresa,
+
+
+00:37:37.369 --> 00:37:39.969
+era muy feliz en Project Manager, pero también
+
+
+00:37:39.969 --> 00:37:41.349
+era mi sueño y todo el mundo lo sabía, además,
+
+
+00:37:41.409 --> 00:37:44.190
+cuando les conté, fue como, my God, obvio, o
+
+
+00:37:44.190 --> 00:37:48.570
+sea. No vamos a discutir contra eso. En una semana.
+
+
+00:37:48.829 --> 00:37:51.409
+En una semana pasé todas las entrevistas, todo
+
+
+00:37:51.409 --> 00:37:53.389
+no sé qué. Cuando me di cuenta, dije, marica,
+
+
+00:37:53.389 --> 00:37:58.210
+¿cómo renuncio a un trabajo? Y me tocó. Y así
+
+
+00:37:58.210 --> 00:38:01.429
+fue como llegué al siguiente. Entonces, preguntando,
+
+
+00:38:01.429 --> 00:38:04.090
+preguntándose, llega. Y teniendo muy claro, quiero
+
+
+00:38:04.090 --> 00:38:06.889
+llegar, ¿no? ¿Por qué no? Trabajar en Google.
+
+
+00:38:07.150 --> 00:38:09.349
+Ok. ¿Quieres trabajar en Google? ¿Haciendo qué?
+
+
+00:38:10.449 --> 00:38:12.309
+Ah, no, no sé. Porque es que uno puede trabajar
+
+
+00:38:12.309 --> 00:38:15.880
+en Google limpiando baños. Y si es lo que uno
+
+
+00:38:15.880 --> 00:38:17.860
+quiere, está bien, porque va a cumplir trabajar
+
+
+00:38:17.860 --> 00:38:21.260
+en Google. No, no, no, yo no quiero, quiero hacer
+
+
+00:38:21.260 --> 00:38:23.420
+el podcast de Google, no sé, me estoy imaginando.
+
+
+00:38:23.619 --> 00:38:25.940
+Ah, bueno, entonces hay que hacer pasos distintos.
+
+
+00:38:26.300 --> 00:38:29.940
+No es solo a dónde, sino cómo, y siendo tan específica.
+
+
+00:38:30.780 --> 00:38:33.480
+Bueno, llegué ya ahí en el proceso. Una vez me
+
+
+00:38:33.480 --> 00:38:34.719
+dijeron, bueno, a partir de ahora es en inglés.
+
+
+00:38:34.780 --> 00:38:40.940
+Y yo, ok. Y yo esto no lo había preparado. Y
+
+
+00:38:40.940 --> 00:38:43.750
+no me acordaba cómo decir cohete. para decirlo
+
+
+00:38:43.750 --> 00:38:45.349
+de la NASA, o sea, es que esto es un tema en
+
+
+00:38:45.349 --> 00:38:46.949
+todo lado, a mí me lo preguntaron en una entrevista,
+
+
+00:38:47.050 --> 00:38:50.050
+no, tranquila, explícate, han visto a la gente
+
+
+00:38:50.050 --> 00:38:52.710
+que va a la luna, va en algo, yo me quiero montar
+
+
+00:38:52.710 --> 00:38:58.289
+en eso, ir, y todos, rocket, jamás, nunca, no
+
+
+00:38:58.289 --> 00:39:01.469
+voy a olvidar que esa es la forma en la que se
+
+
+00:39:01.469 --> 00:39:04.409
+dice, aprendí haciéndolo, cagándola, o sea, frente
+
+
+00:39:04.409 --> 00:39:07.610
+a los que van a ser mis jefes, que así no pasará,
+
+
+00:39:07.769 --> 00:39:09.869
+dije, ok, bueno, ya, la próxima vez que me preguntan
+
+
+00:39:09.869 --> 00:39:12.550
+en inglés, ya sé cómo responder este tipo de
+
+
+00:39:12.550 --> 00:39:14.659
+cosas. Entonces, de acuerdo que al menos en el
+
+
+00:39:14.659 --> 00:39:20.159
+camino va uno sumándole cosas a su caja de herramientas.
+
+
+00:39:21.639 --> 00:39:23.559
+Yo creo que con esta pregunta nos devolvimos
+
+
+00:39:23.559 --> 00:39:29.079
+un poquitín atrás, pero de nuevo Caro preguntó,
+
+
+00:39:29.079 --> 00:39:32.039
+venga, ¿en qué momento sentiste que tu edad podría
+
+
+00:39:32.039 --> 00:39:35.579
+ser una ventaja y no una barrera? Ah, bueno,
+
+
+00:39:35.599 --> 00:39:40.969
+entonces cambió la edad. Sí, la edad. Bueno,
+
+
+00:39:40.969 --> 00:39:46.110
+más allá de la historia, creo que uno, para mí
+
+
+00:39:46.110 --> 00:39:48.690
+no fue nunca un tema que me quitara el sueño,
+
+
+00:39:48.730 --> 00:39:51.329
+¿sabes? O sea, yo no era como, hola, soy chiquita,
+
+
+00:39:51.329 --> 00:39:54.269
+por eso no sé nada del mundo, no. ¿Sabes? Como
+
+
+00:39:54.269 --> 00:39:59.250
+que, hola, soy mujer, como soy mujer me van a
+
+
+00:39:59.250 --> 00:40:02.409
+tratar, no. O sea, ese montón de sesgos, de cosas.
+
+
+00:40:03.119 --> 00:40:08.340
+Yo le digo que siempre a la gente, y creo que
+
+
+00:40:08.340 --> 00:40:10.079
+es porque estudié en un colegio femenino, 12
+
+
+00:40:10.079 --> 00:40:12.860
+años. O sea, para mí las niñas hacían educación
+
+
+00:40:12.860 --> 00:40:16.539
+física, fueran buenas o no fueran buenas. Tocaba
+
+
+00:40:16.539 --> 00:40:18.139
+hacer la tarea de matemáticas, fueran buenas
+
+
+00:40:18.139 --> 00:40:20.000
+o no fueran buenas. Entonces yo creo que fue
+
+
+00:40:20.000 --> 00:40:22.980
+por ahí. O sea, para mí nunca fue como las niñas
+
+
+00:40:22.980 --> 00:40:25.159
+hacemos esto y los niños hacemos esto. Al contrario.
+
+
+00:40:25.360 --> 00:40:28.159
+O sea, todas nos tocó todo porque pues esa era
+
+
+00:40:28.159 --> 00:40:31.289
+la realidad. Ahora con el tema de la edad. Y
+
+
+00:40:31.289 --> 00:40:33.250
+ahí sí, respondiendo a la otra con el título,
+
+
+00:40:33.289 --> 00:40:36.150
+con la edad, porque son un montón de sesgos encima.
+
+
+00:40:38.550 --> 00:40:41.789
+Sí, me he dado cuenta que me toca sobrevenderme.
+
+
+00:40:41.949 --> 00:40:44.289
+O sea, siempre yo llego y, mira, tengo tantos
+
+
+00:40:44.289 --> 00:40:46.610
+años de experiencia, no sé qué, porque cuando
+
+
+00:40:46.610 --> 00:40:49.449
+yo hoy, y saltándonos al futuro, al presente,
+
+
+00:40:49.449 --> 00:40:54.050
+le digo, es que mañana tengo clase. Tú dices,
+
+
+00:40:54.170 --> 00:40:58.389
+ok, ¿y de qué es tu clase? Entonces, les explico.
+
+
+00:40:59.659 --> 00:41:03.539
+¿Y qué te parece? Y yo me quedo pensando. Yo
+
+
+00:41:03.539 --> 00:41:06.159
+no, pues bien. Entonces en una de esas hablando
+
+
+00:41:06.159 --> 00:41:07.820
+con alguien, mi papá le dijo, no, es que ella
+
+
+00:41:07.820 --> 00:41:11.199
+es la profesora en una universidad. Ah, es que
+
+
+00:41:11.199 --> 00:41:14.019
+era la profe. Entonces de entrada, yo sé que
+
+
+00:41:14.019 --> 00:41:16.460
+la gente no dice, ella es la líder de la empresa
+
+
+00:41:16.460 --> 00:41:19.699
+o ella es la profesora de la universidad. Lo
+
+
+00:41:19.699 --> 00:41:22.780
+van a pensar del otro lado. Entonces más allá
+
+
+00:41:22.780 --> 00:41:26.320
+de pensar que por no tener título o por tener
+
+
+00:41:26.320 --> 00:41:28.829
+cierta edad. Sé que sí me toca mostrar un poquito
+
+
+00:41:28.829 --> 00:41:30.449
+más. O sea, de entrada yo te digo, hola Juan,
+
+
+00:41:30.510 --> 00:41:32.250
+por mucho gusto, tengo tantos años de experiencia,
+
+
+00:41:32.469 --> 00:41:35.829
+me dedico a esto. Y es como, ok, no era lo que
+
+
+00:41:35.829 --> 00:41:39.389
+estaba pensando, pero buenísimo. Y ahí empieza
+
+
+00:41:39.389 --> 00:41:42.190
+a cambiar la conversación. Entonces, más un tema
+
+
+00:41:42.190 --> 00:41:46.710
+de sobrevenderme, ¿sabes? En todos, en Platzi,
+
+
+00:41:46.829 --> 00:41:48.789
+al contrario, como, pero estás siendo Project
+
+
+00:41:48.789 --> 00:41:51.889
+Manager, acá vas a gestionar comunidad, segura
+
+
+00:41:51.889 --> 00:41:54.559
+que quieres. Y yo, sí, sí, es que es mi sueño,
+
+
+00:41:54.619 --> 00:41:56.960
+yo quiero trabajar acá. Listo, hágale. Entonces,
+
+
+00:41:57.079 --> 00:42:02.079
+así ha sido. O sea, ha sido un tema más de quién
+
+
+00:42:02.079 --> 00:42:06.059
+soy y de que mis logros y lo que sé y lo que
+
+
+00:42:06.059 --> 00:42:10.519
+he hecho con lo que sé hablen más de lo que uno
+
+
+00:42:10.519 --> 00:42:13.460
+ve y dice, uy, ¿será que sí es la profe? O la
+
+
+00:42:13.460 --> 00:42:16.619
+que está recibiendo la clase. Entonces, es un
+
+
+00:42:16.619 --> 00:42:19.619
+tema más de sobrevenderme más que otra cosa.
+
+
+00:42:19.820 --> 00:42:22.500
+O sea, no me he creído el cuento que... que me
+
+
+00:42:22.500 --> 00:42:26.039
+toca más difícil o algo así, solo que tengo en
+
+
+00:42:26.039 --> 00:42:29.199
+consideración que de entrada me toca sobreexplicarme
+
+
+00:42:29.199 --> 00:42:34.800
+o sobrevenderme. Bueno, y acá esta la conecto
+
+
+00:42:34.800 --> 00:42:38.360
+con otra pregunta que te mandó Santiago, tu novio.
+
+
+00:42:38.659 --> 00:42:45.900
+Ya hemos hablado de los momentos de tu historia,
+
+
+00:42:46.019 --> 00:42:50.420
+pero esta me encantó porque, bueno, Habla de
+
+
+00:42:50.420 --> 00:43:01.980
+los momentos difíciles y complejos. Hablar de
+
+
+00:43:01.980 --> 00:43:04.800
+los momentos difíciles y complejos, eso es una
+
+
+00:43:04.800 --> 00:43:08.400
+parte fundamental para después hablar de los
+
+
+00:43:08.400 --> 00:43:10.059
+buenos, que hemos hablado de los buenos y bien
+
+
+00:43:10.059 --> 00:43:15.949
+es cierto, ya has contado bastantes retos. esa
+
+
+00:43:15.949 --> 00:43:18.969
+experiencia más difícil o desafiante para ti,
+
+
+00:43:18.989 --> 00:43:26.190
+o experiencias? Bueno, las barreras de entrada,
+
+
+00:43:26.409 --> 00:43:30.769
+o sea, no sé, de entrada sé que no puedo trabajar
+
+
+00:43:30.769 --> 00:43:33.489
+directo con el gobierno porque no tengo el cartón,
+
+
+00:43:33.550 --> 00:43:36.789
+o sea, hay varias puertas que yo sé que no son
+
+
+00:43:36.789 --> 00:43:40.969
+tan fáciles de entrar, por la naturaleza de las
+
+
+00:43:40.969 --> 00:43:43.869
+decisiones que he tomado alrededor de mi carrera.
+
+
+00:43:47.509 --> 00:43:54.389
+Retos. Todos. En la primera, entonces, sí, yo
+
+
+00:43:54.389 --> 00:43:56.710
+soy la líder del proyecto, no sé qué pasa cuando
+
+
+00:43:56.710 --> 00:43:59.769
+la complejidad técnica supera el conocimiento
+
+
+00:43:59.769 --> 00:44:02.150
+que ya tengo, pero igual soy la líder del proyecto
+
+
+00:44:02.150 --> 00:44:06.590
+y necesito guiar al equipo. ¿Qué hago? Entonces,
+
+
+00:44:06.590 --> 00:44:08.730
+¿cómo me mantengo constantemente aprendiendo
+
+
+00:44:08.730 --> 00:44:11.730
+para, en la mayoría de los casos cuando he trabajado,
+
+
+00:44:11.789 --> 00:44:14.010
+estar a la altura técnica, aunque yo no sea la
+
+
+00:44:14.010 --> 00:44:16.909
+que esté echando código? Entonces, creo que es
+
+
+00:44:16.909 --> 00:44:20.969
+uno de los que poco se habla, pero soy muy buena
+
+
+00:44:20.969 --> 00:44:25.110
+relacionándome, conociendo cuáles son tus motivaciones,
+
+
+00:44:25.210 --> 00:44:28.309
+pero ya cuando pasa eso, también tengo que hacer
+
+
+00:44:28.309 --> 00:44:30.909
+un doble trabajo, además de ser buena con las
+
+
+00:44:30.909 --> 00:44:33.610
+personas, de ser empática de la comunicación,
+
+
+00:44:33.730 --> 00:44:39.139
+tengo que tener... un conocimiento muy fuerte
+
+
+00:44:39.139 --> 00:44:43.880
+a nivel técnico, pues porque eso es más allá
+
+
+00:44:43.880 --> 00:44:47.340
+de lo que va el liderazgo de un equipo. Entonces
+
+
+00:44:47.340 --> 00:44:51.280
+creo que mantenerme vigente a nivel técnico ha
+
+
+00:44:51.280 --> 00:44:56.159
+sido uno de los retos que siempre han sucedido.
+
+
+00:44:56.860 --> 00:45:03.019
+Siguiendo con la historia, he tenido... Me he
+
+
+00:45:03.019 --> 00:45:06.400
+topado con líderes muy buenos, increíbles, inspiradores
+
+
+00:45:06.400 --> 00:45:09.219
+que han confiado en mí, pero también con jefes
+
+
+00:45:09.219 --> 00:45:14.880
+difíciles, jefes que les ha pesado más. No, pero
+
+
+00:45:14.880 --> 00:45:17.320
+es que es más chiquita, es más flaquita, es más
+
+
+00:45:17.320 --> 00:45:20.320
+gordita, es más todo. Uno no le necesita de Europa
+
+
+00:45:20.320 --> 00:45:23.300
+caerle bien a todos. Dicen que incluso los tacos,
+
+
+00:45:23.460 --> 00:45:26.840
+aunque son muy ricos, hay gente que tiene su
+
+
+00:45:26.840 --> 00:45:29.360
+estómago muy débil y no los tacos, aunque todos
+
+
+00:45:29.360 --> 00:45:33.489
+los sabemos que son para todos. Entonces, sí
+
+
+00:45:33.489 --> 00:45:36.849
+hay momentos en los equipos y en jefes más que
+
+
+00:45:36.849 --> 00:45:40.070
+líderes que han sido muy difíciles, más allá
+
+
+00:45:40.070 --> 00:45:45.909
+de no dar, como no responder a nivel de tareas,
+
+
+00:45:45.909 --> 00:45:49.190
+de cosas operativas, es un tema yo siento como
+
+
+00:45:49.190 --> 00:45:53.590
+personal, entonces ha sido bien difícil lidiar
+
+
+00:45:53.590 --> 00:45:56.869
+con eso, o sea, como no pongo de lado a mi jefe
+
+
+00:45:56.869 --> 00:45:59.630
+y trabajo con él porque igual tenemos que llegar
+
+
+00:45:59.630 --> 00:46:01.780
+a un punto en común. Ha sido como una de las
+
+
+00:46:01.780 --> 00:46:05.619
+cosas que más me han retado, porque no es un
+
+
+00:46:05.619 --> 00:46:07.599
+tema del trabajo, no es un tema de que usted
+
+
+00:46:07.599 --> 00:46:11.599
+hace mal su trabajo, sino es un tema de, no sé,
+
+
+00:46:11.719 --> 00:46:15.440
+o sea, de las personalidades, de la forma de
+
+
+00:46:15.440 --> 00:46:18.800
+trabajar, que no están alineadas. Entonces, incluso
+
+
+00:46:18.800 --> 00:46:22.039
+a nivel de salud, en algún punto, de los retos
+
+
+00:46:22.039 --> 00:46:25.880
+que tengo es que somatizo todo. entonces una
+
+
+00:46:25.880 --> 00:46:28.239
+vez me dio como dolor en la asiática una cosa
+
+
+00:46:28.239 --> 00:46:30.679
+que solo los adultos mayores no podía caminar
+
+
+00:46:30.679 --> 00:46:34.980
+literal no podía caminar por mucho estrés en
+
+
+00:46:34.980 --> 00:46:39.119
+el trabajo soy workaholic entonces también balancear
+
+
+00:46:39.119 --> 00:46:41.500
+la vida y no solo todo es trabajo y estar respondiendo
+
+
+00:46:41.500 --> 00:46:47.880
+me ha costado mucho superar y salir de ahí Y
+
+
+00:46:47.880 --> 00:46:49.400
+aunque pareciera que todo es increíble y ella
+
+
+00:46:49.400 --> 00:46:51.940
+habla muy segura y muy todo, o sea, los demonios
+
+
+00:46:51.940 --> 00:46:53.739
+adentro, no, todavía no soy suficiente, todavía
+
+
+00:46:53.739 --> 00:46:56.420
+no sé tanto, que claro, o sea, yo le estoy contando
+
+
+00:46:56.420 --> 00:46:58.500
+acá, me vendí increíble, pues por dentro era
+
+
+00:46:58.500 --> 00:47:00.840
+como, usted no sabe tanto de eso, usted no es
+
+
+00:47:00.840 --> 00:47:04.800
+tan buena, usted todavía le falta llegar a B,
+
+
+00:47:04.920 --> 00:47:07.599
+C o D para que le crean, para que, o sea, es
+
+
+00:47:07.599 --> 00:47:09.719
+algo que ronda en mi cabeza, ¿sí? Yo les puedo
+
+
+00:47:09.719 --> 00:47:11.920
+decir, no, pues no me importa, pero sí es un
+
+
+00:47:11.920 --> 00:47:15.219
+trabajo interno, continuo, que se debe seguir
+
+
+00:47:15.219 --> 00:47:18.230
+haciendo. Y yo digo, ¿será que sí? O sea, todavía
+
+
+00:47:18.230 --> 00:47:20.769
+hoy alguien me dice, como, quiero trabajar contigo,
+
+
+00:47:20.769 --> 00:47:24.550
+ya desde otros ámbitos, y yo, ¿yo? ¿En serio?
+
+
+00:47:24.929 --> 00:47:27.389
+Entonces, como, también el reto es no perder
+
+
+00:47:27.389 --> 00:47:30.630
+la capacidad de asombro, que a veces uno no lo
+
+
+00:47:30.630 --> 00:47:32.590
+normaliza, entonces empieza a trabajar en piloto
+
+
+00:47:32.590 --> 00:47:36.369
+automático. Todos, si se dan cuenta, son a nivel
+
+
+00:47:36.369 --> 00:47:40.309
+personal, ¿no? De la cabeza, uno como lo va moldeando,
+
+
+00:47:40.429 --> 00:47:43.070
+como sigue trabajando en eso, y uno de los retos.
+
+
+00:47:44.019 --> 00:47:48.239
+para cerrar a nivel de trabajo, me pasó en una
+
+
+00:47:48.239 --> 00:47:52.760
+de las empresas que mi equipo empezó, que empezamos
+
+
+00:47:52.760 --> 00:47:56.980
+a rozar con el equipo. No, no estaba funcionando.
+
+
+00:47:57.139 --> 00:48:01.840
+Hasta que unas, hoy, amigas, nos sentamos, me
+
+
+00:48:01.840 --> 00:48:04.340
+dijeron, pero es que, mira, si tú no haces tu
+
+
+00:48:04.340 --> 00:48:08.099
+parte, nosotros nos sobrecargamos. O sea, es
+
+
+00:48:08.099 --> 00:48:10.860
+un trabajo que todos tenemos que hacer. No estaba
+
+
+00:48:10.860 --> 00:48:12.699
+liderando, estaba siendo parte de un equipo.
+
+
+00:48:13.459 --> 00:48:15.960
+Y yo como así, o sea, en mi cabeza yo era top
+
+
+00:48:15.960 --> 00:48:18.780
+achiever, o sea, hacía todas las tareas, o sea,
+
+
+00:48:18.820 --> 00:48:20.639
+¿qué? Y ellos, no, o sea, no lo está haciendo.
+
+
+00:48:21.000 --> 00:48:23.699
+Yo como que no. Y nos dimos cuenta que yo tenía
+
+
+00:48:23.699 --> 00:48:27.000
+un miedo irracional a cagarla. O sea, que yo
+
+
+00:48:27.000 --> 00:48:29.900
+me tirara mal el dedo y me tirara todo. Y dejaba
+
+
+00:48:29.900 --> 00:48:32.940
+de hacer ciertas cosas, o sea, textualmente,
+
+
+00:48:32.940 --> 00:48:35.119
+o sea, no hacía la tarea, el pedazo de la tarea
+
+
+00:48:35.119 --> 00:48:38.039
+que me tocaba hacer. Y yo, ¿qué? Y me acuerdo
+
+
+00:48:38.039 --> 00:48:40.300
+mucho de esa conversación, porque ellas más allá
+
+
+00:48:40.300 --> 00:48:43.659
+de juzgarme y decirme, usted, ¿qué? Fue sentarnos
+
+
+00:48:43.659 --> 00:48:45.619
+y decir, y les dije, sí, marica, estoy cagada,
+
+
+00:48:45.619 --> 00:48:49.000
+es que no sé cómo hacerlo. Y ser vulnerable y
+
+
+00:48:49.000 --> 00:48:52.099
+decir, no, es que no me las sé todas, ayúdeme.
+
+
+00:48:52.659 --> 00:48:55.179
+Y bueno, obvio, después de eso, hicimos un plan,
+
+
+00:48:55.400 --> 00:48:57.699
+trabajamos juntas, venga, yo le ayudo, comparto
+
+
+00:48:57.699 --> 00:48:59.420
+mi pantalla, lo hacemos juntos, no pasa nada.
+
+
+00:49:00.039 --> 00:49:03.199
+Y eso para decir que uno, esa es la mentalidad,
+
+
+00:49:03.219 --> 00:49:06.059
+no me las sé todas. Siempre hay algo nuevo que
+
+
+00:49:06.059 --> 00:49:07.980
+no lo sé hacer, que usted lo sabe hacer mejor.
+
+
+00:49:08.400 --> 00:49:11.659
+Entonces, ese reto constante de... Y es irracional
+
+
+00:49:11.659 --> 00:49:14.639
+de meter la pata, de no hacer las cosas bien.
+
+
+00:49:15.119 --> 00:49:18.599
+Y ahora he cambiado el mindset de quedar bien
+
+
+00:49:18.599 --> 00:49:21.320
+a hacer el bien. Porque cuando uno quiere hacer
+
+
+00:49:21.320 --> 00:49:24.639
+el bien, la conversación es distinta. Yo quiero
+
+
+00:49:24.639 --> 00:49:26.579
+inspirar a alguien, quiero ayudar a alguien,
+
+
+00:49:26.639 --> 00:49:30.219
+quiero educar, quiero compartir. Yo quiero quedar
+
+
+00:49:30.219 --> 00:49:32.659
+bien. Entonces, si quiero quedar bien, me va
+
+
+00:49:32.659 --> 00:49:34.340
+a importar mucho qué me van a decir. Pero si
+
+
+00:49:34.340 --> 00:49:37.300
+yo estoy haciendo el bien, es una conversación
+
+
+00:49:37.300 --> 00:49:41.320
+distinta. Entonces, todos son problemas. de la
+
+
+00:49:41.320 --> 00:49:45.000
+cabeza que todavía demonios por ahí yo les digo
+
+
+00:49:45.000 --> 00:49:50.000
+pero que pues igual no siento haya parado tanto
+
+
+00:49:50.000 --> 00:49:57.719
+el camino pero si han sido parte de wow que locura
+
+
+00:49:57.719 --> 00:50:00.679
+lo que acabas de decir es increíble es buenísimo
+
+
+00:50:00.679 --> 00:50:03.760
+es buenísimo es la primera vez en mi vida que
+
+
+00:50:03.760 --> 00:50:06.780
+escucho eso y la diferencia entre querer quedar
+
+
+00:50:06.780 --> 00:50:11.210
+bien y hacer el bien está muy potente, de verdad.
+
+
+00:50:12.170 --> 00:50:14.409
+Sí, o sea, me paro en un escenario, quiero quedar
+
+
+00:50:14.409 --> 00:50:17.630
+bien, o sea, que digan, Juanpa es muy inteligente,
+
+
+00:50:17.690 --> 00:50:20.690
+Juanpa sabe, Juanpa lo hace muy bien, entonces
+
+
+00:50:20.690 --> 00:50:25.769
+yo me paro y no quiero romper que piensen que
+
+
+00:50:25.769 --> 00:50:28.369
+yo lo sé hacer bien. Si yo me paro y digo, bueno,
+
+
+00:50:28.409 --> 00:50:31.110
+hoy voy a ayudar a tantos, hoy voy a inspirar
+
+
+00:50:31.110 --> 00:50:33.650
+a tantos, pues no hay que así meter la pata en
+
+
+00:50:33.650 --> 00:50:36.610
+la mitad, es parte del camino, o sea, no es esta
+
+
+00:50:36.610 --> 00:50:39.159
+métrica, es la otra. Pero si al final el punto
+
+
+00:50:39.159 --> 00:50:42.800
+es ayudar y no quedar bien yo, ah, bueno, pues
+
+
+00:50:42.800 --> 00:50:45.519
+no importa. Si la cago en el proceso, digo, disculpen,
+
+
+00:50:45.559 --> 00:50:48.239
+es de esta otra forma y ya, y seguimos. Y no
+
+
+00:50:48.239 --> 00:50:52.539
+hay tanto lío. Aleja, ya vamos cerrando el episodio.
+
+
+00:50:52.539 --> 00:50:55.239
+Se me pasó, no sé si a ti te sucedió, pero se
+
+
+00:50:55.239 --> 00:50:58.460
+me pasó volando esta hora. Yo, ¿a qué horas?
+
+
+00:50:58.659 --> 00:51:05.880
+Sí. Y esta pregunta te la manda Natalia, y es...
+
+
+00:51:06.869 --> 00:51:13.730
+¿Qué cosas nunca cambiarías de ti? Porque hacen
+
+
+00:51:13.730 --> 00:51:17.809
+parte de tu esencia. ¿Qué cosas nunca cambiarías
+
+
+00:51:17.809 --> 00:51:22.690
+sobre mí? La curiosidad. Y la curiosidad atada
+
+
+00:51:22.690 --> 00:51:25.050
+con la capacidad de asombro. Como siempre estoy
+
+
+00:51:25.050 --> 00:51:26.869
+buscando nuevas formas de aprender, de hacer
+
+
+00:51:26.869 --> 00:51:29.820
+las cosas, de encontrar una nueva forma. Pero
+
+
+00:51:29.820 --> 00:51:32.119
+como lo que me sigue pasando, digo, ¿en serio?
+
+
+00:51:32.239 --> 00:51:36.579
+Yo, wow, y lo celebro y tomo un espacio y digo,
+
+
+00:51:36.719 --> 00:51:40.500
+lo hice muy bien. Porque si no, hacemos, hacemos
+
+
+00:51:40.500 --> 00:51:43.059
+y hacemos. Cuando llegamos a la cima o al lugar
+
+
+00:51:43.059 --> 00:51:47.360
+que queremos llegar, bueno, sí, llegué, cinco
+
+
+00:51:47.360 --> 00:51:50.400
+minutos. ¿Y qué? ¿Sí? Entonces, ¿qué pasa si
+
+
+00:51:50.400 --> 00:51:54.139
+en cada escaloncito que voy subiendo voy celebrando?
+
+
+00:51:54.199 --> 00:51:56.480
+O sea, yo, cada cosa, ¿qué me pasa? Cada llamada,
+
+
+00:51:56.519 --> 00:51:59.289
+cada podcast, cada vaina. Me siento y hoy es
+
+
+00:51:59.289 --> 00:52:01.909
+almuerzo especial en la casa porque me pasó que
+
+
+00:52:01.909 --> 00:52:04.389
+Juanpa me llamó y está en Brasil e hicimos un
+
+
+00:52:04.389 --> 00:52:06.309
+podcast y nos llevamos una hora, dos horas, tres
+
+
+00:52:06.309 --> 00:52:08.829
+horas hablando. Entonces, como no pierdo esa
+
+
+00:52:08.829 --> 00:52:11.670
+capacidad de asombro en el camino y uno de los
+
+
+00:52:11.670 --> 00:52:17.429
+retos era si ha pasado, buscar encajar. Yo tengo
+
+
+00:52:17.429 --> 00:52:21.989
+que vestirme más profesional, irme en tacones,
+
+
+00:52:22.030 --> 00:52:25.750
+o sea, una vaina para parecer de esta otra forma.
+
+
+00:52:26.269 --> 00:52:29.650
+Y al contrario, entre más soy y parezco, o sea,
+
+
+00:52:29.690 --> 00:52:33.070
+me visto de colores, me gusta la NASA, soy quien
+
+
+00:52:33.070 --> 00:52:36.230
+soy, de la forma auténtica, y hablo y digo marica,
+
+
+00:52:36.269 --> 00:52:39.349
+y digo, ¿sí? Y no pretendo ser otra persona,
+
+
+00:52:39.710 --> 00:52:42.889
+¡ush! Ahí está la magia. O sea, y al contrario,
+
+
+00:52:42.909 --> 00:52:45.610
+la gente me dice, es que es por ser tú, es que
+
+
+00:52:45.610 --> 00:52:48.269
+eres muy particular, o sea, como que, o sea,
+
+
+00:52:48.269 --> 00:52:50.110
+hablas de cosas técnicas, pero igual la presentación
+
+
+00:52:50.110 --> 00:52:52.969
+está llena de brillitos, y de colores, y de muñequitos,
+
+
+00:52:53.090 --> 00:52:56.570
+si estás hablando de una vaina, sí. No, entre
+
+
+00:52:56.570 --> 00:53:00.590
+más estoy alineada con esa esencia, creo que
+
+
+00:53:00.590 --> 00:53:03.230
+es eso, uno encontrarla, porque tampoco es fácil,
+
+
+00:53:03.369 --> 00:53:07.409
+pero hacer las paces con que igual me pongo los
+
+
+00:53:07.409 --> 00:53:10.530
+blazers, listo, pero entonces es un blazer rosado
+
+
+00:53:10.530 --> 00:53:14.250
+que dice bichota. Entonces sí, los vamos profesionales
+
+
+00:53:14.250 --> 00:53:18.369
+y elegantes, pero no me voy a poner pues corbata
+
+
+00:53:18.369 --> 00:53:21.050
+o así como vestido largo, tacones, porque me
+
+
+00:53:21.050 --> 00:53:25.400
+duelen los pies, desde ahí. entonces eso, no
+
+
+00:53:25.400 --> 00:53:29.099
+cambiaría seguir siendo fiel a mi esencia y a
+
+
+00:53:29.099 --> 00:53:31.440
+quien soy porque además al final es súper cansado
+
+
+00:53:31.440 --> 00:53:35.440
+como es que dije que yo era la aleja que les
+
+
+00:53:35.440 --> 00:53:39.239
+vendí haría eso, no, pues soy quien soy y si
+
+
+00:53:39.239 --> 00:53:45.800
+meto la pata pues es parte de lo que hice ¿Te
+
+
+00:53:45.800 --> 00:53:48.739
+gustaría agregar un mensaje final antes de que
+
+
+00:53:48.739 --> 00:53:55.809
+terminemos el episodio? Bueno Sí, más allá de
+
+
+00:53:55.809 --> 00:53:59.409
+todo, ya se dieron cuenta de este camino loco.
+
+
+00:53:59.449 --> 00:54:02.469
+Hoy ya no estoy en una startup, estoy emprendiendo.
+
+
+00:54:02.750 --> 00:54:06.510
+Es un tema que me pesa decirlo. Estoy emprendiendo,
+
+
+00:54:06.570 --> 00:54:09.489
+estoy dando conferencias, estoy compartiendo
+
+
+00:54:09.489 --> 00:54:12.070
+conocimiento, estoy cumpliéndole a esa niña de
+
+
+00:54:12.070 --> 00:54:14.449
+chiquita. Nos llevamos a la NASA algún día, si
+
+
+00:54:14.449 --> 00:54:19.989
+saben de la NASA. Ahí estamos. Prestenle mucha
+
+
+00:54:19.989 --> 00:54:23.139
+atención a ese niño, a esa niña. De chiquito,
+
+
+00:54:23.139 --> 00:54:26.360
+que le gustaba hacer, que pensaba, que soñaba.
+
+
+00:54:26.800 --> 00:54:28.739
+Cómo eso se transforma y cómo se ve en lo que
+
+
+00:54:28.739 --> 00:54:33.940
+hacen hoy. Es que no tengas miedo de romper el
+
+
+00:54:33.940 --> 00:54:37.619
+molde. Da miedo, da miedo. Yo no tenía ningún
+
+
+00:54:37.619 --> 00:54:39.079
+referente que me dijera, si usted no va a la
+
+
+00:54:39.079 --> 00:54:42.980
+universidad, la logra. Bueno, aquí hay uno, ojalá,
+
+
+00:54:42.980 --> 00:54:46.059
+alguno. No, por la universidad en sí misma y
+
+
+00:54:46.059 --> 00:54:50.719
+tampoco me malinterpreten. ¿Cómo busco formas
+
+
+00:54:50.719 --> 00:54:53.420
+distintas de llegar al lugar que quiero? Al inicio
+
+
+00:54:53.420 --> 00:54:55.400
+yo no sabía que en cinco años iba a terminar
+
+
+00:54:55.400 --> 00:54:58.320
+dando conferencias y talleres a empresas porque
+
+
+00:54:58.320 --> 00:55:00.579
+inicié estudiando desarrollo y creyendo que iba
+
+
+00:55:00.579 --> 00:55:05.119
+a ser programadora. Pero como a medida que voy
+
+
+00:55:05.119 --> 00:55:08.940
+avanzando en el camino tomo todo, todo, marketing,
+
+
+00:55:09.019 --> 00:55:12.420
+operaciones, podcast, ventas y lo voy guardando
+
+
+00:55:12.420 --> 00:55:16.880
+en una cajita de habilidades y hago un smoothie
+
+
+00:55:16.880 --> 00:55:21.449
+solo con eso que yo sé. Y que se vuelve mi ventaja
+
+
+00:55:21.449 --> 00:55:25.809
+competitiva a nivel de carrera, a nivel de empresas.
+
+
+00:55:26.250 --> 00:55:29.929
+Entonces, pónle muchas bolas a eso. Nunca dejen
+
+
+00:55:29.929 --> 00:55:32.050
+por ahí nada que puedan aprender sobre la mesa.
+
+
+00:55:32.110 --> 00:55:34.650
+Todo sirve en algún punto. Yo, ay, sí, una vez
+
+
+00:55:34.650 --> 00:55:37.389
+aprendí de plastilina cuando tenía 8 años. Hágale,
+
+
+00:55:37.510 --> 00:55:41.949
+hagámoslo con plastilina la próxima reunión de
+
+
+00:55:41.949 --> 00:55:44.590
+la empresa. No sé, cosas locas. Uno se imagina
+
+
+00:55:44.590 --> 00:55:49.969
+ahí. Y sobre todo... La frase estelar, nunca,
+
+
+00:55:50.170 --> 00:55:54.130
+nunca, nunca, nunca paren de aprender, de investigar,
+
+
+00:55:54.150 --> 00:55:56.429
+de chismosear, de hablar con más gente, de tocar
+
+
+00:55:56.429 --> 00:56:00.110
+puertas. Y pues para cualquier cosa que necesiten
+
+
+00:56:00.110 --> 00:56:04.210
+en estos temas, primero, gracias, Juanpa, por
+
+
+00:56:04.210 --> 00:56:06.150
+abrir este espacio, por esta conversación tan
+
+
+00:56:06.150 --> 00:56:09.650
+emocionante. Y segundo, aquí ando, para el que
+
+
+00:56:09.650 --> 00:56:12.570
+nos escuche, que necesite seguir hablando, chismoseando,
+
+
+00:56:12.650 --> 00:56:15.969
+estamos ahí para ayudarles en lo que necesiten.
+
+
+00:56:16.489 --> 00:56:18.510
+¿Cómo pueden encontrarte las personas en redes
+
+
+00:56:18.510 --> 00:56:24.510
+sociales? Aleja en AOE, en todas, la mayoría,
+
+
+00:56:24.710 --> 00:56:27.849
+o Aleja en Auspitia, ahí me encuentran en LinkedIn,
+
+
+00:56:27.969 --> 00:56:33.590
+en Instagram, pronto en YouTube. Eso. Ahí estamos.
+
+
+00:56:35.050 --> 00:56:37.469
+Bueno, Aleja, de nuevo, muchísimas gracias por
+
+
+00:56:37.469 --> 00:56:39.269
+el tiempo, por la buena conversación. Antes de
+
+
+00:56:39.269 --> 00:56:42.730
+terminar, voy a tirar un dato random. Hay cosas,
+
+
+00:56:42.909 --> 00:56:44.690
+justamente yo estaba teniendo esta conversación
+
+
+00:56:44.690 --> 00:56:47.949
+hoy después de almorzar. Y es sobre las cosas
+
+
+00:56:47.949 --> 00:56:50.710
+que aparentemente uno aprende y no tienen una
+
+
+00:56:50.710 --> 00:56:54.110
+utilidad en lo que uno hace, ¿cierto? Y uno pensaría
+
+
+00:56:54.110 --> 00:56:56.730
+que la gente que se dedica a tecnología, a startups,
+
+
+00:56:56.969 --> 00:57:00.610
+no les va a servir de absolutamente nada meterse
+
+
+00:57:00.610 --> 00:57:03.070
+un curso de salsa o merengue o lo que sea que
+
+
+00:57:03.070 --> 00:57:05.409
+les enseñe a bailar. Hombre, eso ayuda muchísimo.
+
+
+00:57:05.630 --> 00:57:09.090
+Yo hice un curso, un solo curso de salsa. Y les
+
+
+00:57:09.090 --> 00:57:12.949
+digo una cosa, en todo evento, tech, congreso,
+
+
+00:57:12.969 --> 00:57:16.599
+lo que ustedes quieran, que se respete. hay fiesta,
+
+
+00:57:16.599 --> 00:57:20.659
+hay after. Así que ahí es donde se hace el verdadero
+
+
+00:57:20.659 --> 00:57:25.659
+networking. En el evento no. Las conversaciones
+
+
+00:57:25.659 --> 00:57:28.159
+profundas, los amigos de verdad, se hacen en
+
+
+00:57:28.159 --> 00:57:32.239
+el after del evento. Perfecto. Sí, y tengan pues
+
+
+00:57:32.239 --> 00:57:34.980
+obviamente listo su pitch, su conversación, qué
+
+
+00:57:34.980 --> 00:57:37.260
+le van a decir, cómo quieren hacer. Así nos conocimos
+
+
+00:57:37.260 --> 00:57:39.880
+Juanpa y yo. No crean pues que parece que fuera
+
+
+00:57:39.880 --> 00:57:45.000
+toda la vida, pero nos hemos visto una vez. y
+
+
+00:57:45.000 --> 00:57:47.599
+de resto nos chismoseamos por redes. Entonces,
+
+
+00:57:47.619 --> 00:57:50.880
+uno nunca sabe dónde encuentra su próximo aliado,
+
+
+00:57:50.900 --> 00:57:55.400
+amigo, jefe, patrocinador. Siempre sean curiosos
+
+
+00:57:55.400 --> 00:57:57.579
+y chismoseen. Chismoseen. Es que es más fácil
+
+
+00:57:57.579 --> 00:57:59.739
+decir chismoseen. Chismoseen. Todo lo que les
+
+
+00:57:59.739 --> 00:58:01.989
+guste. Y bueno, hasta acá llegó el episodio de
+
+
+00:58:01.989 --> 00:58:04.550
+hoy. Muchísimas gracias a Aleja Henao por su
+
+
+00:58:04.550 --> 00:58:06.650
+tiempo, por la buena conversación. El episodio
+
+
+00:58:06.650 --> 00:58:08.449
+se terminó, pero la diversión todavía no acaba,
+
+
+00:58:08.650 --> 00:58:11.469
+porque Inminente Podcast tiene más de 100 episodios
+
+
+00:58:11.469 --> 00:58:14.829
+publicados. Así que en este momento te invito
+
+
+00:58:14.829 --> 00:58:16.610
+a que te vayas a la descripción del episodio
+
+
+00:58:16.610 --> 00:58:19.710
+y veas los episodios que te recomiendo, que tienen
+
+
+00:58:19.710 --> 00:58:23.349
+como unos aprendizajes y un feeling muy parecido
+
+
+00:58:23.349 --> 00:58:26.070
+a este. Además, en la descripción también vas
+
+
+00:58:26.070 --> 00:58:28.800
+a tener la lista de reproducción. oficial del
+
+
+00:58:28.800 --> 00:58:31.400
+capítulo con Aleja Henao, que lo hizo ella. Si
+
+
+00:58:31.400 --> 00:58:33.639
+te gustó el episodio, no olvides compartir, calificar
+
+
+00:58:33.639 --> 00:58:35.880
+en la plataforma en la que estés, sea Spotify,
+
+
+00:58:36.039 --> 00:58:38.159
+Apple Podcast, te da tu like y tu comentario
+
+
+00:58:38.159 --> 00:58:40.840
+si estás en YouTube. Y nada, nos vemos en un
+
+
+00:58:40.840 --> 00:58:42.300
+próximo episodio de Inminente Podcast.

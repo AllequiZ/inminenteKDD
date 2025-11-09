@@ -1,1 +1,0 @@
-texto para a estrutura inicial de pastas
