@@ -1,2 +1,2 @@
 # inminenteKDD
-repositório para o trabalho de mineração de dados
+repositório para o trabalho de mineração de dados!
